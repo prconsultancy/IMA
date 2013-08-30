@@ -7,4 +7,44 @@
   <add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja-Harshad.png</image>
 </member>
+<member>
+  <name>Agarwal Dilip</name>
+  <qualification>M.B.B.S. D.O.M.S. (optha)</qualification>
+  <contact>9825195656</contact>
+  <office>02812363393</office>
+  <add>Madhuram Hospital, Dhebar Road, Rajkot.</add>
+  <image>
+  https://raw.github.com/prconsultancy/IMA/master/dr.pic/Agarwal-Dilip.png
+  </image>
+</member>
+<member>
+  <name>Aghera Purvi H.</name>
+  <qualification>M.D. (Obs & Gynocc)</qualification>
+  <contact>9825192468</contact>
+  <office>02812586664</office>
+  <add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot</add>
+  <image>
+  https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Purvi.png
+  </image>
+</member>
+<member>
+  <name>Aghera Sejal V.</name>
+  <qualification>M.B.B.S.</qualification>
+  <contact>9825192468</contact>
+  <office>02812586664</office>
+  <add>Aghera Maternity & Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004.</add>
+  <image>
+  https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Sejal.png
+  </image>
+</member>
+<member>
+  <name>Aghera T. A.</name>
+  <qualification>M.B.B.S., D.P.H.</qualification>
+  <contact>9426815955</contact>
+  <office>02812577669</office>
+  <add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot.</add>
+  <image>
+  https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-T--A.png
+  </image>
+</member>
 </imadirectory>
