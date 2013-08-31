@@ -1,5 +1,6 @@
 <imadirectory>
 <member>
+  <id>1</id>
   <name>Adalja Harshad R.</name>
   <qualification>M.B.B.S., M.D.</qualification>
   <contact>9428010185</contact>
@@ -8,6 +9,7 @@
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja-Harshad.png</image>
 </member>
 <member>
+  <id>2</id>
   <name>Agarwal Dilip</name>
   <qualification>M.B.B.S. D.O.M.S. (optha)</qualification>
   <contact>9825195656</contact>
@@ -18,6 +20,7 @@
   </image>
 </member>
 <member>
+  <id>3</id>
   <name>Aghera Purvi H.</name>
   <qualification>M.D. (Obs & Gynocc)</qualification>
   <contact>9825192468</contact>
@@ -28,6 +31,7 @@
   </image>
 </member>
 <member>
+  <id>4</id>
   <name>Aghera Sejal V.</name>
   <qualification>M.B.B.S.</qualification>
   <contact>9825192468</contact>
@@ -38,6 +42,7 @@
   </image>
 </member>
 <member>
+  <id>5</id>
   <name>Aghera T. A.</name>
   <qualification>M.B.B.S., D.P.H.</qualification>
   <contact>9426815955</contact>
