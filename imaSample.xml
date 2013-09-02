@@ -5,9 +5,7 @@
 <about>
 M.B.B.S., M.D
 </about>
-<image>
-https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja-Harshad.png
-</image>
+<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/AdaljaHarshad.png</image>
 </site>
 <site>
 <name>Adani Hineshkumar R</name>
@@ -15,8 +13,6 @@ https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja-Harshad.png
 <about>
 M. S. (Orthopaedic Surgery)
 </about>
-<image>
-https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png
-</image>
+<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adani-Hineshkuma.png</image>
 </site>
 </stack-sites>
