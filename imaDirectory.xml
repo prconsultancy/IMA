@@ -5,7 +5,7 @@
   <name>Adalja Harshad R</name>
   <qualification>M.B.B.S., M.D</qualification>
   <contact>9428010185</contact>
-  <office>028123665522</office>
+  <office>02812227190</office>
   <add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja-Harshad.png</image>
 </member>
@@ -20,15 +20,6 @@
 </member>
 <member>
   <id>3</id>
-  <name>Adhvaryu Kishor R.</name>
-  <qualification>M.B.B.S.</qualification>
-  <contact>9727206962</contact>
-  <office>02812223963</office>
-  <add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360009</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Kishor-Adhvaryu.png</image>
-</member>
-<member>
-  <id>4</id>
   <name>Agarwal Dilip</name>
   <qualification>M.B.B.S. D.O.M.S. (optha)</qualification>
   <contact>9825195656</contact>
@@ -37,35 +28,44 @@
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Agarwal-Dilip.png</image>
 </member>
 <member>
-  <id>5</id>
+  <id>4</id>
   <name>Aghera Purvi H.</name>
-  <qualification>M.D. (Obs and Gynocc)</qualification>
+  <qualification>M.D. (Ob. and Gyn.)</qualification>
   <contact>9825192468</contact>
   <office>02812586664</office>
-  <add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot.</add>
+  <add>Aghera Hospital 78 - A, Panchayat Nagar, Street No. 2, Rampark Main Road, University Road, Rajkot</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Purvi.png</image>
 </member>
 <member>
-  <id>6</id>
+  <id>5</id>
   <name>Aghera Sejal V.</name>
   <qualification>M.B.B.S.</qualification>
-  <contact>9825192468</contact>
-  <office>02812586664</office>
-  <add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004.</add>
+  <contact>78786787848</contact>
+  <office>02812388556/office>
+  <add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Sejal.png</image>
 </member>
 <member>
-  <id>7</id>
+  <id>6</id>
   <name>Aghera T. A.</name>
   <qualification>M.B.B.S., D.P.H.</qualification>
   <contact>9426815955</contact>
   <office>02812577669</office>
-  <add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot.</add>
+  <add>Shree Clinic, Nr. Swaminarayan Chowk, Krishnanagar Main Road, Rajkot</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-T--A.png</image>
 </member>
 <member>
+  <id>7</id>
+  <name>Dr. Aghera Vipul V.</name>
+  <qualification>M.B.B.S., D.G.O.</qualification>
+  <contact>9377377370</contact>
+  <office>02812388556</office>
+  <add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Vipul.png</image>
+</member>
+<member>
   <id>8</id>
-  <name>Aghera Vasantbhai H.</name>
+  <name>Aghera Vithalbhai H.</name>
   <qualification>B.A.M.S., L.M.P., F.C.G.P.</qualification>
   <contact>9924152232</contact>
   <office>02812233705</office>
@@ -74,24 +74,15 @@
 </member>
 <member>
   <id>9</id>
-  <name>Aghera Vipul V.</name>
-  <qualification>M.B.B.S., D.G.O.</qualification>
-  <contact>9377377370</contact>
-  <office>02812388556</office>
-  <add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar, Rajkot 360004.</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Aghera-Vipul.png</image>
-</member>
-<member>
-  <id>10</id>
   <name>Agravat Amit H.</name>
   <qualification>M.B.B.S., M.D.</qualification>
   <contact>9825416609</contact>
   <office>02812458323</office>
-  <add>Department of Pathology, P.D.U. Medical College, City Civic Hospital Campus, Rajkot - 360001.</add>
+  <add>Department of Pathology, P.D.U. Medical College, City Civic Hospital Campus, Rajkot - 360001</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Agravat-Amit.png</image>
 </member>
 <member>
-  <id>11</id>
+  <id>10</id>
   <name>Agravat H. H.</name>
   <qualification>M.B.B.S., M.D.</qualification>
   <contact>9727712337</contact>
@@ -876,7 +867,7 @@
 </member>
 <member>
   <id>98</id>
-  <name>Bharathi Ketan V.</name>
+  <name></name></name>
   <qualification>M.B.B.S.</qualification>
   <contact>9426476264</contact>
   <office>9426476264</office>
@@ -885,6 +876,15 @@
 </member>
 <member>
   <id>99</id>
+  <name>Bharathi Ketan V.</name>
+  <qualification>M.B.B.S.</qualification>
+  <contact>9426476264</contact>
+  <office>9426476264</office>
+  <add>Government Service Industrial Safety and Health Block 7, Floor 7, Bahumali Bhavan, Racecourse Ring Road, Rajkot.</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ketan%20Bharathi.png</image>
+</member>
+<member>
+  <id>100</id>
   <name>Bharathi Ketan V.</name>
   <qualification>M.B.B.S.</qualification>
   <contact>9426476264</contact>
