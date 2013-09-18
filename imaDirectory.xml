@@ -435,10 +435,10 @@
 <member>
 <id>49</id>
   <name>Bavishi Ketan</name>
-  <qualification>M.B.B.S.</qualification>
-  <contact>8421841195</contact>
-  <office>02812584199</office>
-  <add> Rajkot </add>
+  <qualification>M.B.B.S., M.S. (Ophth)</qualification>
+  <contact>9374101269</contact>
+  <office>8866134334</office>
+  <add> Bavishi Eye Hospital, Vidyanagar Main Road, Nr. Rashtriya Shala, Rajkot - 360001.</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ketan%20Bavishi%20.png</image>
 </member>
 <member>
@@ -448,7 +448,7 @@
   <contact>9825078335</contact>
   <office>02812432970</office>
   <add>"Pain Point", "Ami Drishty" Flat No. 1, Above Payal Dairy Farm, Amin Road, Rajkot</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ketan%20Bavishi%20.png</image>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shailesh%20Bavishi.png</image>
 </member>
 <member>
 <id>51</id>
@@ -492,16 +492,53 @@
   <qualification>M.B.B.S., D.C.P.</qualification>
   <contact>9879333122</contact>
   <office>02812702133</office>
-  <add>"Khodiyar Diagnosis" Opp. K. D. Complex, Santkabir Road, 2 - Saddguru Ranchhodnagar, Rajkot. 360003</add>
+  <add>"Khodiyar Diagnosis" Opp. K. D. Complex, Santkabir Road, 2 - Saddguru Ranchhodnagar, Rajkot - 360003</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Hiren%20Bhalgamiya%20.png</image>
 </member>
+<member>
 <id>56</id>
-  <name>Bhalgamiya Hiren P.</name>
-  <qualification>M.B.B.S., D.C.P.</qualification>
-  <contact>9879333122</contact>
-  <office>02812702133</office>
-  <add>"Khodiyar Diagnosis" Opp. K. D. Complex, Santkabir Road, 2 - Saddguru Ranchhodnagar, Rajkot. 360003</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Hiren%20Bhalgamiya%20.png</image>
+  <name>Bhalodia Bharti M.</name>
+  <qualification>M.D. (Ande.)</qualification>
+  <contact>9824213614</contact>
+  <office>02812236070</office>
+  <add>Bhalodia Hospital,  Shreeraj Complex, 26 Karanpara, Karansinhji Main Road, Rajkot - 360001</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Bharti%20Bhalodia.png</image>
+</member>
+<member>
+<id>57</id>
+  <name>Bhalodia Hiteshkumar B.</name>
+  <qualification>M.D. Radiodiagnosis</qualification>
+  <contact>9824487881</contact>
+  <office>02812480070</office>
+  <add>Parth Imaging Center, 13/14 Sardarnagar, Astron Circle, Rajkot - 360001</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Hitesh%20Bhalodia%20.png</image>
+</member>
+<member>
+<id>58</id>
+  <name>Bhalodia Maganlal G.</name>
+  <qualification>M.S. (Gensurg) M. Ch. (Plast Surgery)</qualification>
+  <contact>9824285453</contact>
+  <office>02812236070</office>
+  <add>Bhalodia Hospital,  Shreeraj Complex, 26 Karanpara, Karansinhji Main Road, Rajkot - 360001</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Maganlal%20Bhalodia.PNG</image>
+</member>
+<member>
+<id>59</id>
+  <name>Bhalodia Rajesh P.</name>
+  <qualification>M.S.</qualification>
+  <contact>9824210574</contact>
+  <office>02812574575</office>
+  <add>Suvidha Maternity and Surgical Hospital, B/h. Wockhardt Hospital, University Road, Rajkot</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Rajesh%20Bhalodia%20.png</image>
+</member>
+<member>
+<id>60</id>
+  <name>Bhalodia Shilpa R.</name>
+  <qualification>M.S.</qualification>
+  <contact>9824210574</contact>
+  <office>02812574575</office>
+  <add>Suvidha Maternity and Surgical Hospital, B/h. Wockhardt Hospital, University Road, Rajkot</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shilpa%20Bhalodia.png</image>
 </member>
 
 
