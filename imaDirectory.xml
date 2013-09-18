@@ -691,7 +691,7 @@
   <contact>9824221873</contact>
   <office>02812235055</office>
   <add> Pandya's Ent Hospital, Dr. Rajendra Road, Chaudhry High School Chowk, Rajkot. 360001</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pranav%20Bhatt.png</image>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Sanjay%20Bhatt.png</image>
 </member>
 <member>
 <id>78</id>
@@ -731,15 +731,6 @@
 </member>
 <member>
 <id>82</id>
-  <name>Bhimani Bipinchandra B.</name>
-  <qualification>D.M.</qualification>
-  <contact>9825317178</contact>
-  <office>02812463003</office>
-  <add> Well Care Hospital 25. New Jagnath Road, A.G. Office B/H near Bramha Kumari Temple, Rajkot</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Bipinbhai%20Bhimani%20.png</image>
-</member>
-<member>
-<id>83</id>
   <name>Bhimani Falguni B.</name>
   <qualification>Diploma (M.B., D.C.P.)</qualification>
   <contact>9427209944</contact>
@@ -962,5 +953,32 @@
   <office>00000000000</office>
   <add> Department of Psychiatry, O.P.D. No. 25, P.D.U. Hospital, Jamnagar Road, Rajkot - 360001</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Kalpesh%20Chandraui%20.png</image>
+</member>
+<member>
+<id>107</id>
+  <name>Changela Jayantilal D.</name>
+  <qualification>M.B.B.S., D.G.O.</qualification>
+  <contact>9428466084</contact>
+  <office>02812577333</office>
+  <add> Vatsalya Hospital, Jagnath chowk , Navjyot Park main road, 150' Ring Road, Rajkot - 360005</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Jayantilal%20Changela.png</image>
+</member>
+<member>
+<id>108</id>
+  <name>Chari Manohar T.</name>
+  <qualification>M.D., D.M., E.C.M.O.</qualification>
+  <contact>9426758614</contact>
+  <office>00000000000</office>
+  <add> N. P. Cancer Institute, 1 Tirupatinagar, Opp. Nirmala Convent School, Rajkot. 360007</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Manohar%20Chari%20.png</image>
+</member>
+<member>
+<id>109</id>
+  <name>Chauhan Dineshkumar M.</name>
+  <qualification>M.S., M.ch (Ortho)</qualification>
+  <contact>9824043843</contact>
+  <office>02812481416</office>
+  <add> Yesh Hospital, Vidhyanagar main Road, 7/8 manhar Plot, Rajkot</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Manohar%20Chari%20.png</image>
 </member>
 </imadirectory>
