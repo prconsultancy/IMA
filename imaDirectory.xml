@@ -1746,6 +1746,7 @@
   <add>2rd Floor Kasturba Road, Opp. Temption Food Zone, Nr. Choudhry High School, Rajkot - 1</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pravin%20Doshi.png</image>
 </member>
+<member>
 <id>195</id>
   <name>Doshi Shaila R.</name>
   <qualification>M.B.B.S., D.G.O.</qualification>
@@ -1754,7 +1755,7 @@
   <add>Rajkot.</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shaila%20Doshi%20.PNG</image>
 </member>
-</member>
+<member>
 <id>196</id>
   <name>Doshi Sugandha K.</name>
   <qualification>M.D.(pediatrics)D.C.H.</qualification>
@@ -1763,6 +1764,7 @@
   <add>P. D. U. Medical College and K. T. Children Hospital</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Sugandha%20Doshi.png</image>
 </member>
+<member>
 <id>197</id>
   <name>Doshi Taralika P</name>
   <qualification>M.D. (Obst and Gynacc)</qualification>
@@ -1771,7 +1773,7 @@
   <add>Modern Hospital, ' Aloukik ', 2rd Floor Kasturba Road, Opp. Temption Food Zone, Nr. Choudhry High School, Rajkot - 1</add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Taralika%20Doshi.png</image>
 </member>
-</member>
+<member>
 <id>198</id>
   <name>Doshi Vipul V.</name>
   <qualification>M.D. (Patho.)</qualification>
@@ -1780,14 +1782,7 @@
   <add> R. B. Kothari Trust Hospital, Opp. 10 Manhar Plot, Vidyanagar Main Road, Sarvoday Sankul, Rajkot. </add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vipul%20Doshi%20.png</image>
 </member>
-</member>
-<id>199</id>
-  <name> Dudhatra V. V.</name>
-  <qualification> M.D. </qualification>
-  <contact>9825022767</contact>
-  <office>0000-00000000</office>
-  <add> Dudhatra Hospital Vidyanagar Main Road, 10 Manahar Plot corner, Rajkot. 360002 </add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vipul%20Doshi%20.png</image>
-</member>
+
+
 
 </imadirectory>
