@@ -1546,7 +1546,7 @@
   <contact>9979887539</contact>
   <office>0000-0000000</office>
   <add>B.T. Savani Kidney Hospital, University Road, Rajkot</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pankaj%20Dholaria.png</image>
+  <image>https:raw.github.com/prconsultancy/IMA/master/dr.pic/Pankaj%20Dholaria.png</image>
 </member>
 <member>
 <id>173</id>
@@ -1564,7 +1564,7 @@
   <contact>9825673539</contact>
   <office>00281-2464812</office>
   <add>Dhruva Eye Hospital and Laser Center, Rastriya Shala, Rajkot - 2</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Animesh%20Dhruva.JPG</image>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Animesh%20Dhruva.png</image>
 </member>
 <member>
 <id>175</id>
@@ -1573,7 +1573,7 @@
   <contact>9825389050</contact>
   <office>00000-0000000</office>
   <add>Professor and Head Department Of Pathology P.D.U. Medical College, Rajkot</add>
-  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Gauravi%20%20Dhruva.jpg</image>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Gauravi%20%20Dhruva.png</image>
 </member>
 <member>
 <id>176</id>
@@ -1782,7 +1782,22 @@
   <add> R. B. Kothari Trust Hospital, Opp. 10 Manhar Plot, Vidyanagar Main Road, Sarvoday Sankul, Rajkot. </add>
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vipul%20Doshi%20.png</image>
 </member>
-
-
-
+<member>
+<id>199</id>
+  <name>Easwar Subhasini </name>
+  <qualification>M.B.B.S.</qualification>
+  <contact>0000000000</contact>
+  <office>0281-2468766</office>
+  <add> Milestone Hospital, Vidyanagar Main Road, Rajkot</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Subhasini-Eashwar.png</image>
+</member>
+<member>
+<id>200</id>
+  <name>Easwar T.K.M.</name>
+  <qualification>M.D. (Med)</qualification>
+  <contact>0000000000</contact>
+  <office>0281-2468766</office>
+  <add> Milestone Hospital, Vidyanagar Main Road, Rajkot</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/T-K-Eashwar.png</image>
+</member>
 </imadirectory>
