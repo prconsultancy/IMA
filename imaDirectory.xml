@@ -4528,26 +4528,22 @@
   <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima282-Nirav-Mody.png</image>
 </member>
 <member>
-<id>510</id>
-<name>Mody Piyush P.</name>
-<qualification>M.D. (Anaesthesia), D.A.</qualification>
-<contact>9825516889</contact>
-<office>02812451517</office>
-<add>Dr. Mody Hospital, Monti Tanki, Rajkot - 360001.</add>
-<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima878-Piyush-Modi.png</image>
-</member>
+  <id>510</id>
+  <name>Mody Piyush P.</name>
+  <qualification>M.D. (Anaesthesia), D.A.</qualification>
+  <contact>9825516889</contact>
+  <office>02812451517</office>
+  <add>Dr. Mody Hospital, Monti Tanki, Rajkot - 360001.</add>
+  <image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima878-Piyush-Modi.png</image>
+  </member>
 <member>
-<id>511</id>
-<name>Mody Shaili N.</name>
-<qualification>M.B.B.S., D.G.O. (Obst and Gynec.)</qualification>
-<contact>8000448908</contact>
-<office>02812466694</office>
-<add>
-Dashashrimali Trust Hospital, Kothariya Naka Road, Rajkot - 360001.
-</add>
-<image>
-https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima283-Shaili-Mody.png
-</image>
+  <id>511</id>
+  <name>Mody Shaili N.</name>
+  <qualification>M.B.B.S., D.G.O. (Obst and Gynec.)</qualification>
+  <contact>8000448908</contact>
+  <office>02812466694</office>
+  <add>Dashashrimali Trust Hospital, Kothariya Naka Road, Rajkot - 360001.</add>
+  <image> https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima283-Shaili-Mody.png</image>
 </member>
 <member>
 <id>512</id>
