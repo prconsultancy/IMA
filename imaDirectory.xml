@@ -3,7 +3,7 @@
 	<member>
 		  <id>1</id>
 		  <name>Adalja Harshad R</name>
-		  <qualification>M.B.B.S., M.D. (Pathology, Microbiology)</qualification>
+		  <qualification>M.B.B.S., M.D. (Path. and Micro.)</qualification>
 		  <contact>9428010185</contact>
 		  <office>02812227190</office>
 		  <add>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</add>
@@ -12,7 +12,7 @@
 	<member>
 		  <id>2</id>
 		  <name>Adani Hineshkumar R</name>
-		  <qualification>M.S. (Orthopaedic Surgery)</qualification>
+		  <qualification>M.S. (Orthopaedic)</qualification>
 		  <contact>9824212783</contact>
 		  <office>02812223963</office>
 		  <add>Dashashrimali V. M. Trust Hospital, Kothariya Naka, Rajkot - 360009</add>
@@ -21,7 +21,7 @@
 	<member>
 		  <id>3</id>
 		  <name>Agrawal Dilip</name>
-		  <qualification>M.B.B.S., D.O.M.S. (Opth)</qualification>
+		  <qualification>M.B.B.S., D.O.M.S. (Ophthalmology)</qualification>
 		  <contact>9825195656</contact>
 		  <office>02812363393</office>
 		  <add>Madhuram Hospital, Dhebar Road, Rajkot</add>
@@ -39,7 +39,7 @@
 	<member>
 		  <id>5</id>
 		  <name>Aghera Sejal V.</name>
-		  <qualification>M.B.B.S. (Gyn)</qualification>
+		  <qualification>M.B.B.S. (Gynacology)</qualification>
 		  <contact>7878678784</contact>
 		  <office>02812388556</office>
 		  <add>Aghera Maternity and Surgical Hospital, 1 Nandkishor Society, Block No. 22, B/h. Fieldmarshal Patel wadi, Nr. Laxminagar 360004</add>
@@ -120,7 +120,7 @@
 	<member>
 		<id>15</id>
 		<name>Amethiya Paresh J.</name>
-		<qualification>M.D. (TB and Chest)</qualification>
+		<qualification>M.D. (TB and Chest Medicine)</qualification>
 		<contact>9825310048</contact>
 		<office>02812471346</office>
 		<add>Shree Sardar Patel (Aanand) Hospital, Rancchod Nagar - 19/4, Opp. Ganesh Mandap. Off Kuvadva Road, Rajkot</add>
@@ -237,7 +237,7 @@
 	<member>
 		<id>28</id>
 		<name>Babariya Dharmesh</name>
-		<qualification>M.D. (Anaenthesiology)</qualification>
+		<qualification>M.D. (Anaesthesiology)</qualification>
 		<contact>9825665706</contact>
 		<office>9825665706</office>
 		<add>Asopalav spring Apt., A - 202, B/h. Casa Copper Apt., Nr. Satya Sai Hospital, Kalawad Road, Rajkot</add>
@@ -246,16 +246,16 @@
 	<member>
 		<id>29</id>
 		<name>Badheka Jigisha P.</name>
-		<qualification>M.D Anaesthesilogy</qualification>
+		<qualification>M.D (Anaesthesiology)</qualification>
 		<contact>9879570170</contact>
 		<office>02812445402</office>
-		<add>P.D.U Medical college, Dept of Anaesthesiology, Nr. Jam Tower, Rajkot</add>
+		<add>P.D.U Medical college, Dept of Anaesthesiology, Nr. Jam Tower, Rajkot - 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Jigisha%20Badheka.png</image>
 	</member>
 	<member>
 		<id>30</id>
 		<name>Badiani Atul S.</name>
-		<qualification>M.B.B.S., D.O.M.S.</qualification>
+		<qualification>M.B.B.S., D.O.M.S. (Ophthalmology)</qualification>
 		<contact>9426226280</contact>
 		<office>02812457001</office>
 		<add>Shree Ranchhoddasjibapu Charitable Hospital, Kuvadva Road, Rajkot - 360003</add>
@@ -267,22 +267,22 @@
 		<qualification>M.B.B.S., F.C.C.M.</qualification>
 		<contact>9712209209</contact>
 		<office>00000000000</office>
-		<add>Dhakan Hospital, Kuvadava Road, Nr. Ranchhoddas Ashram, Rajkot</add>
+		<add>Dhakaan Hospital, Kuvadava Road, Nr. Ranchhoddas Ashram, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Nimiesh%20Bagsariya%20.png</image>
 	</member>
 	<member>
 		<id>32</id>
 		<name>Bajania Kalpesh V.</name>
-		<qualification>M.B.B.S., M.S.</qualification>
+		<qualification>M.B.B.S., M.S. (Orthopaedic)</qualification>
 		<contact>9879560504</contact>
 		<office>02812472233</office>
-		<add>Dhakan Hospital, Kuvadava Road, Nr. Ranchhoddas Ashram, Rajkot</add>
+		<add>Dhakaan Hospital, Kuvadava Road, Nr. Ranchhoddas Ashram, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Kalpesh%20Bahania%20.png</image>
 	</member>
 	<member>
 		<id>33</id>
 		<name>Bakhai Hetalbhai K.</name>
-		<qualification>D.O., M.B.B.S.</qualification>
+		<qualification>D.O., M.B.B.S. (Ophthalmology)</qualification>
 		<contact>9825274373</contact>
 		<office>02812573557</office>
 		<add>"Aum Planet" i care Eye Hospital, Opp. Nirmala Convent School, Nr. Hanuman Madhi Chowk, Rajkot</add>
@@ -300,7 +300,7 @@
 	<member>
 		<id>35</id>
 		<name>Balar Shobhnaben A.</name>
-		<qualification>M.D., D.G.O.</qualification>
+		<qualification>M.D., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9427720865</contact>
 		<office>02812465056</office>
 		<add>Akashdeep Hospital, Moti Tanki Chowk, Rajkot - 360001</add>
@@ -309,7 +309,7 @@
 	<member>
 		<id>36</id>
 		<name>Baldania Viral K.</name>
-		<qualification>M.D.</qualification>
+		<qualification>M.D. (Physician)</qualification>
 		<contact>9925042439</contact>
 		<office>02812378100</office>
 		<add>Jaynath Hospital, Nr. Bhaktinagar Circle, Rajkot</add>
@@ -318,25 +318,25 @@
 	<member>
 		<id>37</id>
 		<name>Baldha Alpa H.</name>
-		<qualification>M.B.B.S., M.D. (Gynec.)</qualification>
+		<qualification>M.B.B.S., M.D. (Ob. and Gy.)</qualification>
 		<contact>9712979318</contact>
-		<office>02812378100</office>
+		<office>02812574141</office>
 		<add>Vibrant Hospital, Sadhu vasvani Road, Opp. Decora Heights. Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Alpa%20Baldha.png</image>
 	</member>
 	<member>
 		<id>38</id>
 		<name>Baldha Chunilal R.</name>
-		<qualification>M.B.B.S., D.O.M.S.</qualification>
+		<qualification>M.B.B.S., D.O.M.S. (Eye Surgeon)</qualification>
 		<contact>9228821492</contact>
 		<office>02812224576</office>
-		<add>Patel Constact Lens Clinic and Eye Hospital, 108 Toral Jawahar Road, Nr. Galaxy Hotel, Opp. Shashtri Maidan, Rajkot - 360001</add>
+		<add>Patel Contact Lens Clinic and Eye Hospital, 108 Toral Jawahar Road, Nr. Galaxy Hotel, Opp. Shashtri Maidan, Rajkot - 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Chunilal%20Baldha%20.png</image>
 	</member>
 	<member>
 		<id>39</id>
 		<name>Baldha Harshal C.</name>
-		<qualification>M.B.B.S., M.S. (Ophthalmology), FRF, Do</qualification>
+		<qualification>M.B.B.S., M.S., FRF, D.O (Ophthalmology)</qualification>
 		<contact>9377482916</contact>
 		<office>02812584114</office>
 		<add>(Shree Swami Narayan Hospital), Nr Gondal Road Over Bridge, Gondal Road, Rajkot</add>
@@ -345,7 +345,7 @@
 	<member>
 		<id>40</id>
 		<name>Bambholia B. R.</name>
-		<qualification>M.S.</qualification>
+		<qualification>M.S. (Surgeon)</qualification>
 		<contact>9428039934</contact>
 		<office>02812465959</office>
 		<add>Sadbhavna Hospital, 4 Manar Plot, Mangala Road - Rajkot</add>
@@ -357,31 +357,31 @@
 		<qualification>M. B. B. S., D. T. C. D.(TB and Chest Medicine)</qualification>
 		<contact>9537247717</contact>
 		<office>02812367717</office>
-		<add>Smit Chest Clinic, 1st Floor, Shri Ram Complex, Opp. Vinodbhai Commercial Hall, Kothariya Main Road, Rajkot 360002.</add>
+		<add>Smit Chest Clinic, 1st Floor, Shri Ram Complex, Opp. Vinodbhai Commercial Hall, Kothariya Main Road, Rajkot 360002</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shailesh%20Banugaria%20.png</image>
 	</member>
 	<member>
 		<id>42</id>
 		<name>Barad Jagmal P.</name>
-		<qualification>M.B.B.S.-M.S.(General Surgeon)</qualification>
+		<qualification>M.B.B.S., M.S.(Laproscopic Surgeon)</qualification>
 		<contact>9825020126</contact>
-		<office>02812388994-5-6</office>
-		<add>H. J. Doshi Hospital, Malaviyanagar, Gondal Road, Rajkot 360004.</add>
+		<office>02812388994</office>
+		<add>H. J. Doshi Hospital, Malaviyanagar, Gondal Road, Rajkot 360004</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Jagmal%20Barad%20.png</image>
 	</member>
 	<member>
 		<id>43</id>
 		<name>Baraiya Khushbu M.</name>
-		<qualification>M.B.B.S.,P.G.D.B.A.(Ultrasonography)</qualification>
+		<qualification>M.B.B.S., P.G.D.B.A. (Ultrasonography)</qualification>
 		<contact>9726711498</contact>
 		<office>02812331188</office>
-		<add>Shivam Sonography and Color Doppler center, 188, Chamunda Park - 2, Nr. Big Bazar, 150 Ft. Ring Road, Rajkot-5</add>
+		<add>Shivam Sonography and Color Doppler center, 188, Chandra Park - 2, Nr. Big Bazar, 150 Ft. Ring Road, Rajkot 360005</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Khushbu%20Baraiya%20.png</image>
 	</member>
 	<member>
 		<id>44</id>
 		<name>Baraiya Mihir B.</name>
-		<qualification>M.D.</qualification>
+		<qualification>M.D.(Radio Diagnosis)</qualification>
 		<contact>9099924216</contact>
 		<office>02812331188</office>
 		<add>Shivam Sonography and Color Doppler center, 188, Chamunda Park - 2, Nr. Big Bazar, 150 Ft. Ring Road, Rajkot-5</add>
@@ -408,7 +408,7 @@
 	<member>
 		<id>47</id>
 		<name>Bavaria Seema M.</name>
-		<qualification>M.D Gen Medical</qualification>
+		<qualification>M.D, FCCM, FCCS (General Medicine)</qualification>
 		<contact>9427221827</contact>
 		<office>02812563950</office>
 		<add>Rajkot</add>
@@ -417,7 +417,7 @@
 	<member>
 		<id>48</id>
 		<name>Bavishi Ashish S.</name>
-		<qualification>M.B.B.S.</qualification>
+		<qualification>M.B.B.S. (Family Medicine)</qualification>
 		<contact>8421841195</contact>
 		<office>02812584199</office>
 		<add>Rajkot</add>
@@ -426,20 +426,11 @@
 	<member>
 		<id>49</id>
 		<name>Bavishi Ketan</name>
-		<qualification>M.B.B.S., M.S. (Ophth)</qualification>
+		<qualification>M.B.B.S., M.S. (Ophthalmology)</qualification>
 		<contact>9374101269</contact>
 		<office>8866134334</office>
-		<add>Bavishi Eye Hospital, Vidyanagar Main Road, Nr. Rashtriya Shala, Rajkot - 360001</add>
+		<add>Bavishi Eye Hospital, Vidyanagar Main Road, Nr. Rashtriya Shala, Rajkot 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ketan%20Bavishi%20.png</image>
-	</member>
-	<member>
-		<id>50</id>
-		<name>Bavishi Shailesh B.</name>
-		<qualification>M.D. Anesthesia</qualification>
-		<contact>9825078335</contact>
-		<office>02812432970</office>
-		<add>"Pain Point", "Ami Drishty" Flat No. 1, Above Payal Dairy Farm, Amin Road, Rajkot</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shailesh%20Bavishi.png</image>
 	</member>
 	<member>
 		<id>51</id>
