@@ -363,7 +363,7 @@
 	<member>
 		<id>42</id>
 		<name>Barad Jagmal P.</name>
-		<qualification>M.B.B.S., M.S.(Laparoscopic Surgeon)</qualification>
+		<qualification>M.B.B.S., M.S. (Laparoscopic Surgeon)</qualification>
 		<contact>9825020126</contact>
 		<office>02812388994</office>
 		<add>H. J. Doshi Hospital, Malaviyanagar, Gondal Road, Rajkot 360004</add>
@@ -433,6 +433,15 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ketan%20Bavishi%20.png</image>
 	</member>
 	<member>
+		<id>50</id>
+		<name>Bavishi Shailesh B.</name>
+		<qualification>M.D. (Anaesthesiology)</qualification>
+		<contact>9825078335</contact>
+		<office>02812432970</office>
+		<add>"Pain Point", "Ami Drishty" Flat No. 1, Above Payal Dairy Farm, Amin Road, Rajkot</add>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shailesh%20Bavishi.png</image>
+	</member>
+	<member>
 		<id>51</id>
 		<name>Bhadesia Haresh S.</name>
 		<qualification>M.B.B.S., P.G.D.M.C.H.</qualification>
@@ -444,7 +453,7 @@
 	<member>
 		<id>52</id>
 		<name>Bhadukiya Naisargi V.</name>
-		<qualification>M.D. Physiology</qualification>
+		<qualification>M.D. (Physiology)</qualification>
 		<contact>9427357858</contact>
 		<office>00000000000</office>
 		<add>"Dhrunaivi" Plot 9/B/2 Amrakunj Society, Nr. Gaga Hall, Amin Marg, Rajkot</add>
@@ -453,7 +462,7 @@
 	<member>
 		<id>53</id>
 		<name>Bhadukiya Vinod P.</name>
-		<qualification>M.D. Paedialrics</qualification>
+		<qualification>M.D. (Paediatrics)</qualification>
 		<contact>9426235514</contact>
 		<office>00000000000</office>
 		<add>"Virani" Children Hospital, Satyam Building, Opp. Gurukul corner, Dhebar Road, Rajkot</add>
@@ -462,16 +471,16 @@
 	<member>
 		<id>54</id>
 		<name>Bhalara Rohit V.</name>
-		<qualification>M.B.B.S. and M.D. (Pathology) Desi:- Associate Professior</qualification>
+		<qualification>M.B.B.S. and M.D. (Pathology)</qualification>
 		<contact>9033077577</contact>
-		<office>02812458340-268</office>
+		<office>02812458340</office>
 		<add>No. 133, Department of Pathology, P.D.U. Medical College And Hospital, Jamnagar Road, Rajkot - 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Rohit%20Bhalara%20.png</image>
 	</member>
 	<member>
 		<id>55</id>
 		<name>Bhalgamiya Hiren P.</name>
-		<qualification>M.B.B.S., D.C.P.</qualification>
+		<qualification>M.B.B.S., D.C.P. (Pathology)</qualification>
 		<contact>9879333122</contact>
 		<office>02812702133</office>
 		<add>"Khodiyar Diagnosis" Opp. K. D. Complex, Santkabir Road, 2 - Saddguru Ranchhodnagar, Rajkot - 360003</add>
@@ -480,7 +489,7 @@
 	<member>
 		<id>56</id>
 		<name>Bhalodia Bharti M.</name>
-		<qualification>M.D.(Ande.)Anesthesia</qualification>
+		<qualification>M.D. (Anaesthesia)</qualification>
 		<contact>9824213614</contact>
 		<office>02812236070</office>
 		<add>Bhalodia Hospital,  Shreeraj Complex, 26 Karanpara, Karansinhji Main Road, Rajkot - 360001</add>
@@ -489,7 +498,7 @@
 	<member>
 		<id>57</id>
 		<name>Bhalodia Hiteshkumar B.</name>
-		<qualification>M.D. Radiodiagnosis</qualification>
+		<qualification>M.D. (Radio Diagnosis)</qualification>
 		<contact>9824487881</contact>
 		<office>02812480070</office>
 		<add>Parth Imaging Center, 13/14 Sardarnagar, Astron Circle, Rajkot - 360001</add>
@@ -498,7 +507,7 @@
 	<member>
 		<id>58</id>
 		<name>Bhalodia Maganlal G.</name>
-		<qualification>M.S. (Gensurg) M. Ch. (Plast Surgery)</qualification>
+		<qualification>M.S. (General Surg), M. Ch. (Plastic Surg)</qualification>
 		<contact>9824285453</contact>
 		<office>02812236070</office>
 		<add>Bhalodia Hospital,  Shreeraj Complex, 26 Karanpara, Karansinhji Main Road, Rajkot - 360001</add>
@@ -507,7 +516,7 @@
 	<member>
 		<id>59</id>
 		<name>Bhalodia Rajesh P.</name>
-		<qualification>M.S.</qualification>
+		<qualification>M.S. (General Surgeon)</qualification>
 		<contact>9824210574</contact>
 		<office>02812574575</office>
 		<add>Suvidha Maternity and Surgical Hospital, B/h. Wockhardt Hospital, University Road, Rajkot</add>
@@ -516,8 +525,8 @@
 	<member>
 		<id>60</id>
 		<name>Bhalodia Shilpa R.</name>
-		<qualification>M.D. (Obstetic and Gynecology)</qualification>
-		<contact>9426981070</contact>
+		<qualification>M.D. (Ob. and Gy.)</qualification>
+		<contact>9426980170</contact>
 		<office>02812574575</office>
 		<add>Suvidha Maternity and Surgical Hospital, B/h. Wockhardt Hospital, University Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shilpa%20Bhalodia.png</image>
@@ -534,8 +543,8 @@
 	<member>
 		<id>62</id>
 		<name>Bhanderi Vijay G.</name>
-		<qualification>M.B.B.S., D.G.O.</qualification>
-		<contact>9825128855</contact>
+		<qualification>M.B.B.S., D.G.O. (Gynacology)</qualification>
+		<contact>9925128855</contact>
 		<office>02812380002</office>
 		<add>Vatsalya Hospital, Shivganga Society, Nr. Creative School, 50 ft. Road, Opp. Cinemax, Nana Mauva Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vijay%20Bhanderi%20.PNG</image>
@@ -543,7 +552,7 @@
 	<member>
 		<id>63</id>
 		<name>Bhansar Niraj B.</name>
-		<qualification>M.B., B.S., D.C.H.</qualification>
+		<qualification>M.B., B.S., D.C.H. (Paediatrics)</qualification>
 		<contact>9825066767</contact>
 		<office>02812448986</office>
 		<add>Tender Touch Child Care, Panchvati Main Road, Opp Patel Bhel, Rajkot</add>
@@ -552,10 +561,10 @@
 	<member>
 		<id>64</id>
 		<name>Bhapal Ashwin R.</name>
-		<qualification>M.B.B.S., D.M.C.H., P.C.G.P.</qualification>
+		<qualification>M.B.B.S., D.M.C.H., F.C.G.P.</qualification>
 		<contact>9824074920</contact>
 		<office>02812444544</office>
-		<add>Tender Touch Child Care, Panchvati Main Road, Opp Patel Bhel, Rajkot</add>
+		<add>Sadar Bazar, Main Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Ashwin%20Bhapal%20%20.png</image>
 	</member>
 	<member>
@@ -564,13 +573,13 @@
 		<qualification>M.B.B.S., M.D. (General Medicine)</qualification>
 		<contact>9879282113</contact>
 		<office>02812452688</office>
-		<add>Sadarbazar Main Road, Rajkot. P. D. U. Medical College, Jamnagar Road, Rajkot</add>
+		<add>Sadar Bazar Main Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Meghavi%20Bhapal%20%20.png</image>
 	</member>
 	<member>
 		<id>66</id>
 		<name>Bhapal Suketu A.</name>
-		<qualification>M.B.B.S., M.S. Ophalmdlogy</qualification>
+		<qualification>M.B.B.S., M.S. (Ophthalmology)</qualification>
 		<contact>9879535412</contact>
 		<office>02812452686</office>
 		<add>Vivekanand Eye Care Centre, B/h. Ramkrishna Aashram, Dr. Yagnik Road, Rajkot</add>
@@ -582,7 +591,7 @@
 		<qualification>M.B.B.S., F.C.G.P.</qualification>
 		<contact>9824207775</contact>
 		<office>02812444544</office>
-		<add>Sardarbazar Main Road, Rajkot</add>
+		<add>Sardar Bazar Main Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Sushma%20Bhapal%20.png</image>
 	</member>
 	<member>
@@ -597,7 +606,7 @@
 	<member>
 		<id>69</id>
 		<name>Bhate Bharatkumar C.</name>
-		<qualification>M.S. General Surgery</qualification>
+		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9227688711</contact>
 		<office>02812471129</office>
 		<add>" Anand " plot 4/B, Harihar Socity, Akshar marg, Kalavad Road, Rajkot - 360001</add>
@@ -606,7 +615,7 @@
 	<member>
 		<id>70</id>
 		<name>Bhatt Bina S.</name>
-		<qualification>M.B.B.S., D.G.O.</qualification>
+		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9824251873</contact>
 		<office>02812459548</office>
 		<add>Saumya Maternity Hospital, Nirmala Convent Road, Hanumanmadhi Chowk, Rajkot</add>
@@ -624,7 +633,7 @@
 	<member>
 		<id>72</id>
 		<name>Bhatt Jatin G.</name>
-		<qualification>M.S. (Gen. Surgery), FMAS, FIAGES, FLCS</qualification>
+		<qualification>M.S., FMAS, FIAGES, FLCS (General Surgery)</qualification>
 		<contact>9428894466</contact>
 		<office>02812458323</office>
 		<add>Dept. of Surgery, P.D.U. Medical College and Hospital, Rajkot - 360001.</add>
@@ -633,7 +642,7 @@
 	<member>
 		<id>73</id>
 		<name>Bhatt Jayprakash G.</name>
-		<qualification>M.D. (Path) Lab. Director</qualification>
+		<qualification>M.D. (Pathology)</qualification>
 		<contact>0000000000</contact>
 		<office>02812234949</office>
 		<add>"Akshar House" Dr. Bhatt Pathology Laboratory, Rajputpara Main Road, Nr. Bhutkhana Chowk, Rajkot - 360001</add>
@@ -654,14 +663,14 @@
 		<qualification>M.S. (Ophthalmology)</qualification>
 		<contact>9898046484</contact>
 		<office>02812464813</office>
-		<add>Bhatt Eye Hospital and Retona Centre, 9 - 7 Janta Society, Tagore Marg, Rajkot - 360001.</add>
+		<add>Bhatt Eye Hospital and Retina Centre, 97 Janta Society, Tagore Marg, Rajkot - 360001.</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Manoj%20Bhatt.png</image>
 	</member>
 	<member>
 		<id>76</id>
 		<name>Bhatt Pranav K.</name>
-		<qualification>M. S. Surgery, Fellow and Registrat (Tata Cancer Hospital)</qualification>
-		<contact>9909027836</contact>
+		<qualification>M. S. (Oncology Surgery)</qualification>
+		<contact>9909927836</contact>
 		<office>02816623444</office>
 		<add>Pandya's Ent Hospital, Dr. Rajendra Road, Chaudhry High School Chowk, Rajkot. 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pranav%20Bhatt.png</image>
@@ -669,16 +678,16 @@
 	<member>
 		<id>77</id>
 		<name>Bhatt Sanjay D.</name>
-		<qualification>M.B.B.S., M.D.</qualification>
+		<qualification>M.B.B.S., M.D. (Physician)</qualification>
 		<contact>9824221873</contact>
 		<office>02812235055</office>
-		<add>Pandya's Ent Hospital, Dr. Rajendra Road, Chaudhry High School Chowk, Rajkot. 360001</add>
+		<add>"Samanvay" Hospital, opp Karansinhji High School, Nr. Centre Point, b/h Bus Stop, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Sanjay%20Bhatt.png</image>
 	</member>
 	<member>
 		<id>78</id>
 		<name>Bhatt Sejal D.</name>
-		<qualification>M.S. (E.N.T.)</qualification>
+		<qualification>M.S. (E.N.T. and Otorhinolaryngologist)</qualification>
 		<contact>9712047501</contact>
 		<office>00000000000</office>
 		<add>ENT Department, P.D.U. Medical College and Hospital, Rajkot</add>
@@ -687,16 +696,16 @@
 	<member>
 		<id>79</id>
 		<name>Bhatti Mitesh D.</name>
-		<qualification>M.D. (Skin)</qualification>
+		<qualification>M.D. (Dermatology)</qualification>
 		<contact>9898340832</contact>
 		<office>8460762957</office>
-		<add>Sapphire Complex, 21 - New Lagnath, B/H, Heera-Panna Complex, Dr.Yagnik Road, Rajkot</add>
+		<add>Sparsh SkinCare Clinic Sapphire Complex, 21 - New Lagnath, B/H, Heera-Panna Complex, Dr.Yagnik Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Mitesh%20Bhatti.png</image>
 	</member>
 	<member>
 		<id>80</id>
 		<name>Bhayani Bhaumik</name>
-		<qualification>M.B.B.S., M.S. (Gen)</qualification>
+		<qualification>M.B.B.S., M.S. (General Surg), M. Ch. (Plastic Surg)</qualification>
 		<contact>9824038329</contact>
 		<office>02812457169</office>
 		<add>Heal - well Hospital, G.H.B. 14/53 - 54 Opp. Swaminarayan Temple, Kalawad Road, Rajkot - 360001</add>
@@ -705,7 +714,7 @@
 	<member>
 		<id>81</id>
 		<name>Bhimani Bipinchandra B.</name>
-		<qualification>D.M.</qualification>
+		<qualification>D.M. (Neurology)</qualification>
 		<contact>9825317178</contact>
 		<office>02812463003</office>
 		<add>Well Care Hospital 25. New Jagnath Road, A.G. Office B/H near Bramha Kumari Temple, Rajkot</add>
@@ -714,7 +723,7 @@
 	<member>
 		<id>82</id>
 		<name>Bhimani Falguni B.</name>
-		<qualification>Diploma (M.B., D.C.P.)</qualification>
+		<qualification>Diploma (M.B., D.C.P.) (Pathology)</qualification>
 		<contact>9427209944</contact>
 		<office>02812481155</office>
 		<add>Well Care Hospital 25. New Jagnath Road, A.G. Office B/H near Bramha Kumari Temple, Rajkot</add>
@@ -726,16 +735,16 @@
 		<qualification>M.D. (Anaesthesia)</qualification>
 		<contact>9879597359</contact>
 		<office>00000000000</office>
-		<add>" Chamunda - Labb " Janki Park Main road, Opp Efil Tower, Opp Wockhardt Hospital, Kalawad Road - Rajkot</add>
+		<add>" Chandra - Labh " Janki Park Main road, Opp Efil Tower, Opp Wockhardt Hospital, Kalawad Road - Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Hitesh%20Bhimani.png</image>
 	</member>
 	<member>
 		<id>84</id>
 		<name>Bhimani Sudhir D.</name>
-		<qualification>M.D.</qualification>
+		<qualification>M.D. (General Medicine)</qualification>
 		<contact>9824213616</contact>
 		<office>02812463798</office>
-		<add>" Mangalam " 25, New Jagnath, B/H Astron Cinema, Opp Garden, Rajkot</add>
+		<add>" Mangalam " 25, New Jagnath, B/H Astron Cinema, Opp Shivaji Garden, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Sudhir%20Bhimani%20.png</image>
 	</member>
 	<member>
@@ -750,10 +759,10 @@
 	<member>
 		<id>86</id>
 		<name>Bhut Jayeshbhai H.</name>
-		<qualification>M.B.B.S., D.C.H.(Medicine)</qualification>
+		<qualification>M.B.B.S., D.C.H. (Paediatrics)</qualification>
 		<contact>9427254386</contact>
 		<office>02812468866</office>
-		<add>Jeevandhra Children Hospital, Rashmi - Pushp, 4 - Manahar Plot Corner, Mangala Road, Rajkot. 360002</add>
+		<add>Jeevandhara Children Hospital, Rashmi - Pushp, 4 - Manahar Plot Corner, Mangala Road, Rajkot. 360002</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Jayesh%20Bhut.png</image>
 	</member>
 	<member>
@@ -786,7 +795,7 @@
 	<member>
 		<id>90</id>
 		<name>Boghani Rajiv M.</name>
-		<qualification>M.D., D.M.R.E., M.B.B.S.</qualification>
+		<qualification>M.D., D.M.R.E., M.B.B.S. (Radiology)</qualification>
 		<contact>9825075762</contact>
 		<office>02812228194</office>
 		<add>Boghani Radiodiagnostic Clinic, 24, Mehta Petrol Pump, Rajkot</add>
@@ -795,10 +804,10 @@
 	<member>
 		<id>91</id>
 		<name>Buch Avanish P.</name>
-		<qualification>M.B.B.S., D.C.H.</qualification>
+		<qualification>M.B.B.S., D.C.H. (Paediatrics)</qualification>
 		<contact>9825215844</contact>
 		<office>02812446171</office>
-		<add>Near Moti Tanki, Sardar, Rajkot</add>
+		<add>Near Moti Tanki, Sadar, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Avanish%20Buch.png</image>
 	</member>
 	<member>
@@ -821,8 +830,8 @@
 	</member>
 	<member>
 		<id>94</id>
-		<name>Buch Lalita</name>
-		<qualification>M.D (Medicine)</qualification>
+		<name>Buch Lalitha</name>
+		<qualification>M.D (Medicine) (HIV/AIDS)</qualification>
 		<contact>9824022994</contact>
 		<office>02812228702</office>
 		<add>Shubham Hospital, 80 Feet Road, Garbi Chowk, Sorathiyavadi Cricle , Rajkot - 360001</add>
@@ -831,7 +840,7 @@
 	<member>
 		<id>95</id>
 		<name>Buch Mrudanga A.</name>
-		<qualification>M.B.B.S., D.M.C.H.</qualification>
+		<qualification>M.B.B.S., D.M.C.H. (Paediatrics)</qualification>
 		<contact>9099011120</contact>
 		<office>02812446111</office>
 		<add>Near Moti Tanki, Sardar, Rajkot</add>
@@ -840,7 +849,7 @@
 	<member>
 		<id>96</id>
 		<name>Buddha Samrat A.</name>
-		<qualification>M.B.B.S , M.S (Ortho.)</qualification>
+		<qualification>M.B.B.S , M.S (Orthopaedic)</qualification>
 		<contact>9898242411</contact>
 		<office>02812588802</office>
 		<add>Sterling Hospital, Rajkot</add>
@@ -849,10 +858,10 @@
 	<member>
 		<id>97</id>
 		<name>Buddhadev Hitesh K.</name>
-		<qualification>M.B.B.S., D.A.</qualification>
+		<qualification>M.B.B.S., D.A. (Anaenthesiology)</qualification>
 		<contact>9824298707</contact>
 		<office>9925009592</office>
-		<add>"Rameshioor", Saurashtra Kala Kendra Society Street No. 14, Nirmala Convent Road, Rajkot - 360007</add>
+		<add>"Rameshwar", Saurashtra Kala Kendra Society Street No. 14, Nirmala Convent Road, Rajkot - 360007</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Hitesh%20Buddhadev%20.png</image>
 	</member>
 	<member>
@@ -886,7 +895,7 @@
 		<id>101</id>
 		<name>Chandarana Shukhdev B.</name>
 		<qualification>M.D. (Anaesthesia)</qualification>
-		<contact>9829214070</contact>
+		<contact>9824214070</contact>
 		<office>02812452754</office>
 		<add>713, Takshashila Socity No. 2, Nr, Phulchhab Press</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Shukhdev%20Chandarana%20.png</image>
@@ -894,16 +903,16 @@
 	<member>
 		<id>102</id>
 		<name>Chandarana V. S.</name>
-		<qualification>M.D., M.I.C.A.T, F.I.C.A. (USA)</qualification>
+		<qualification>M.D., M.I.C.A.T, F.I.C.A.</qualification>
 		<contact>9825462082</contact>
-		<office>02812445999</office>
+		<office>02812445997</office>
 		<add>'Dharmendra' Kusum Multispecialist Medical Entac Hospital, Vijyakusum, Moti Tanki, Rajkot - 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/V%20S%20Chandarana.png</image>
 	</member>
 	<member>
 		<id>103</id>
 		<name>Chandrani Aarti</name>
-		<qualification>M. S. (Gynasc)</qualification>
+		<qualification>M. S. (Ob. and Gy.)</qualification>
 		<contact>9879274714</contact>
 		<office>02812459568</office>
 		<add>B - 9, Adinath Towers, Opp. Radiostation, Nr. Galaxy Cinema, Rajkot</add>
@@ -930,7 +939,7 @@
 	<member>
 		<id>106</id>
 		<name>Changela Jayantilal D.</name>
-		<qualification>M.B.B.S., D.G.O.</qualification>
+		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9428466084</contact>
 		<office>02812577333</office>
 		<add>Vatsalya Hospital, Jagnath chowk , Navjyot Park main road, 150' Ring Road, Rajkot - 360005</add>
@@ -939,7 +948,7 @@
 	<member>
 		<id>107</id>
 		<name>Chari Manohar T.</name>
-		<qualification>M.D., D.M., E.C.M.O.</qualification>
+		<qualification>M.D., D.M., E.C.M.O. (Medical Oncology)</qualification>
 		<contact>9426758614</contact>
 		<office>00000000000</office>
 		<add>N. P. Cancer Institute, 1 Tirupatinagar, Opp. Nirmala Convent School, Rajkot. 360007</add>
@@ -948,10 +957,10 @@
 	<member>
 		<id>108</id>
 		<name>Chauhan Dineshkumar M.</name>
-		<qualification>M.S., M.ch (Ortho)</qualification>
+		<qualification>M.S., M.ch (Orthopaedic)</qualification>
 		<contact>9824043843</contact>
 		<office>02812481416</office>
-		<add>Yesh Hospital, Vidhyanagar main Road, 7/8 manhar Plot, Rajkot</add>
+		<add>Yash Hospital, Vidhyanagar main Road, 7/8 Manhar Plot, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Dinesh%20Chauhan%20.png</image>
 	</member>
 	<member>
