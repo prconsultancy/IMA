@@ -124,7 +124,6 @@
 		<contact>9898742367</contact>
 		<office>9898742367</office>
 		<add>Kishan Gate Rd., Arihant Clinic Manibhadra Complex, Opp. Durga Weigh Bridge, Metoda, G.I.D.C. Kalawad Road, Rajkot</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Akbari-Gokalbhai.png</image>
 	</member>
 	<member>
 		<id>15</id>
@@ -560,7 +559,7 @@
 	</member>
 	<member>
 		<id>63</id>
-		<name>Bhansar Niraj B.</name>
+		<name>Bhavsar Niraj B.</name>
 		<qualification>M.B., B.S., D.C.H. (Paediatrics)</qualification>
 		<contact>9825066767</contact>
 		<office>02812448986</office>
@@ -1663,7 +1662,6 @@
 		<contact>9825079224</contact>
 		<office>02812451365</office>
 		<add>Scientific Diagnostic Center, Pooja Complex, Harihar Chowk, Rajkot</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Kamlesh%20Docdias%20.PNG</image>
 	</member>
 	<member>
 		<id>186</id>
@@ -1798,7 +1796,6 @@
 		<contact>9825022767</contact>
 		<office>2812464155</office>
 		<add>Dudhatra Hospital Vidyanagar Main Road, 10 Manahar Plot Corner, Rajkot 360002</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vallabh%20Dudhatra.png</image>
 	</member>
 	<member>
 		<id>201</id>
@@ -1951,7 +1948,6 @@
 		<contact>9427209568</contact>
 		<office>2812573646</office>
 		<add>Vyomesh Clinic, Gayatrinagar Main Road, Rajkot 360002</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Trikamji-Gajera.png</image>
 	</member>
 	<member>
 		<id>218</id>
@@ -2144,7 +2140,7 @@
 	</member>
 	<member>
 		<id>239</id>
-		<name>Ghodasara Deena U.</name>
+		<name>Ghodasara Deena R.</name>
 		<qualification>M.B.B.S., D.A. (Anaesthesia)</qualification>
 		<contact>9925139125</contact>
 		<office>00000000000</office>
@@ -2598,7 +2594,7 @@
 		<qualification>M.B.B.S. D.L.O (ENT)</qualification>
 		<contact>9408187687</contact>
 		<office>02812228686</office>
-		<add>Hemani Hospital, Bhaktinagar Society, Rajkot 360002</add>
+		<add>Hemani Hispital, Bhaktinagar Socity, Rajkot 360002</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Vimal-Hemani.png</image>
 	</member>
 	<member>
@@ -3584,7 +3580,7 @@
 	</member>
 	<member>
 		<id>399</id>
-		<name>Korvaidya Maulik M.</name>
+		<name>Korvadiya Maulik M.</name>
 		<qualification>M.B.B.S., M.D (Paediatrics)</qualification>
 		<contact>7568938380</contact>
 		<office>02812387463</office>
@@ -4520,15 +4516,6 @@
 	</member>
 	<member>
 		<id>503</id>
-		<name>Modi Saheli G.</name>
-		<qualification>B.A.M.S., D.G.P.P</qualification>
-		<contact>9426598555</contact>
-		<office>02816999034</office>
-		<add>Cute Baby Care Hospital, Nr. Modi school, Opp. Tata Motor showroom, 150 ft. Ring Road, Rajkot.</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima103-Saheli-Modi-.png</image>
-	</member>
-	<member>
-		<id>504</id>
 		<name>Mody Jatin N.</name>
 		<qualification>M.B.B.S., DORL, M.S, DLO (General ENT)</qualification>
 		<contact>9825216530</contact>
@@ -4537,7 +4524,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima280-Jatin-Mody.png</image>
 	</member>
 	<member>
-		<id>505</id>
+		<id>504</id>
 		<name>Mody Nirav J.</name>
 		<qualification>M.B.B.S., M.S (ENT)</qualification>
 		<contact>9825112651</contact>
@@ -4546,7 +4533,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima282-Nirav-Mody.png</image>
 	</member>
 	<member>
-		<id>506</id>
+		<id>505</id>
 		<name>Mody Piyush P.</name>
 		<qualification>M.D. (Anaesthesia), D.A.</qualification>
 		<contact>9825516889</contact>
@@ -4555,7 +4542,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima878-Piyush-Modi.png</image>
 	</member>
 	<member>
-		<id>507</id>
+		<id>506</id>
 		<name>Mody Shaili N.</name>
 		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>8000448908</contact>
@@ -4564,7 +4551,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima283-Shaili-Mody.png</image>
 	</member>
 	<member>
-		<id>508</id>
+		<id>507</id>
 		<name>Mody Shruti S.</name>
 		<qualification>M.D., D.N.B., D. Ped., D.A.A. (Paediatrics, Neonatologist and Allergy)</qualification>
 		<contact>9820180686</contact>
@@ -4573,7 +4560,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima278-Shurti-Mody.png</image>
 	</member>
 	<member>
-		<id>509</id>
+		<id>508</id>
 		<name>Mody Suna J.</name>
 		<qualification>M.B.B.S. (ENT)</qualification>
 		<contact>9825538066</contact>
@@ -4582,7 +4569,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima281-Suna-Mody.png</image>
 	</member>
 	<member>
-		<id>510</id>
+		<id>509</id>
 		<name>Mody Sunil N.</name>
 		<qualification>M.B.B.S., DORL, M.S, D.L.O, FRCS (Otomicro Surgery)</qualification>
 		<contact>9427252998</contact>
@@ -4591,7 +4578,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima276-Sunil-Mody.png</image>
 	</member>
 	<member>
-		<id>511</id>
+		<id>510</id>
 		<name>Mody Swati S.</name>
 		<qualification>M.D., D.N.B., (Radio Diagnosis)</qualification>
 		<contact>7666316149</contact>
@@ -4600,7 +4587,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima279-Swati-Mody.png</image>
 	</member>
 	<member>
-		<id>512</id>
+		<id>511</id>
 		<name>Mody Vandana S.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9979135566</contact>
@@ -4609,7 +4596,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima277-Vandana-Mody.png</image>
 	</member>
 	<member>
-		<id>513</id>
+		<id>512</id>
 		<name>Mohile Nila</name>
 		<qualification>M.D., D.G.O., F.I.C.O.G (Ob. and Gy.)</qualification>
 		<contact>9825219309</contact>
@@ -4618,7 +4605,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima013-Nila-Mohile.png</image>
 	</member>
 	<member>
-		<id>514</id>
+		<id>513</id>
 		<name>Monani Pallavi R.</name>
 		<qualification>M.B.B.S., D. (Paediatrics)</qualification>
 		<contact>9879288108</contact>
@@ -4627,7 +4614,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima017-Pallavi-Monani.png</image>
 	</member>
 	<member>
-		<id>515</id>
+		<id>514</id>
 		<name>Monpara Dilip D.</name>
 		<qualification>M.B.B.S., M.S.</qualification>
 		<contact>9429314342</contact>
@@ -4636,7 +4623,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima232-Dilip-Monpara-.png</image>
 	</member>
 	<member>
-		<id>516</id>
+		<id>515</id>
 		<name>Monpara Hemali J.</name>
 		<qualification>M.B.B.S., D.O.M.S. (Ophthalmology)</qualification>
 		<contact>8000733731</contact>
@@ -4645,7 +4632,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima639-Hemali-Monpara.png</image>
 	</member>
 	<member>
-		<id>517</id>
+		<id>516</id>
 		<name>Monpara Jasmin B.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9426213733</contact>
@@ -4654,7 +4641,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima640-Jasmin-Monpara.png</image>
 	</member>
 	<member>
-		<id>518</id>
+		<id>517</id>
 		<name>Morabiya Sonal N.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824231143</contact>
@@ -4663,7 +4650,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima682-Sonal-Morabiya.png</image>
 	</member>
 	<member>
-		<id>519</id>
+		<id>518</id>
 		<name>Moradia Riddhi A.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9426228093</contact>
@@ -4672,7 +4659,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima491-Riddhi-Moradia.png</image>
 	</member>
 	<member>
-		<id>520</id>
+		<id>519</id>
 		<name>Moral Shailesh C.</name>
 		<qualification>M.B.B.S., M.D. (Pathology)</qualification>
 		<contact>9825181810</contact>
@@ -4681,7 +4668,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima530-Shailesh-Moral.png</image>
 	</member>
 	<member>
-		<id>521</id>
+		<id>520</id>
 		<name>Mori Birju S.</name>
 		<qualification>M.B.B.S., Dip. DIAS, C. DIAB (Diabetology)</qualification>
 		<contact>9978905373</contact>
@@ -4690,7 +4677,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima339-Birju-Mori.png</image>
 	</member>
 	<member>
-		<id>522</id>
+		<id>521</id>
 		<name>Motani Hemal K.</name>
 		<qualification>M.S. (Laparoscopic and General Surgeon)</qualification>
 		<contact>9427448849</contact>
@@ -4699,7 +4686,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima149-Hemal-Motani-.png</image>
 	</member>
 	<member>
-		<id>523</id>
+		<id>522</id>
 		<name>Moteria Manisha</name>
 		<qualification>M.D., D.G.O (Ob. and Gy.)</qualification>
 		<contact>9825673334</contact>
@@ -4708,7 +4695,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima752-Manisha-Moteria.png</image>
 	</member>
 	<member>
-		<id>524</id>
+		<id>523</id>
 		<name>Moteria Sunil B.</name>
 		<qualification>M.S. M.ch (Urology)</qualification>
 		<contact>9825673334</contact>
@@ -4717,7 +4704,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima753-Sunil-Moteria.png</image>
 	</member>
 	<member>
-		<id>525</id>
+		<id>524</id>
 		<name>Motivaras Tejas A.</name>
 		<qualification>M.D. (Medicine) E.D.I.C.</qualification>
 		<contact>9879870001</contact>
@@ -4726,7 +4713,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima593-Tejas-Motivaras.png</image>
 	</member>
 	<member>
-		<id>526</id>
+		<id>525</id>
 		<name>Motwani Kartar S.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824867763</contact>
@@ -4735,7 +4722,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima382-Kartar-Motwani.png</image>
 	</member>
 	<member>
-		<id>527</id>
+		<id>526</id>
 		<name>Motwani Rajesh U.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9376160599</contact>
@@ -4744,7 +4731,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima294-Rajesh-Motwani.png</image>
 	</member>
 	<member>
-		<id>528</id>
+		<id>527</id>
 		<name>Movaliya Bharat B.</name>
 		<qualification>M.B.B.S., D.E.M., F.I.E.M. (Physician)</qualification>
 		<contact>9825370697</contact>
@@ -4753,7 +4740,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima755-Bharat-Movaliya.png</image>
 	</member>
 	<member>
-		<id>529</id>
+		<id>528</id>
 		<name>Murjani Deepak M.</name>
 		<qualification>M.B.B.S., M.D. (Radio Diagnosis)</qualification>
 		<contact>9825189698</contact>
@@ -4762,7 +4749,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima247-Deepak-Murjani.png</image>
 	</member>
 	<member>
-		<id>530</id>
+		<id>529</id>
 		<name>Nagar Rakesh R.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9409530419</contact>
@@ -4771,7 +4758,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima641-Rakesh-Nagar.png</image>
 	</member>
 	<member>
-		<id>531</id>
+		<id>530</id>
 		<name>Nagecha Vijay A.</name>
 		<qualification>M.D. (Psychiatry)</qualification>
 		<contact>9824201520</contact>
@@ -4780,7 +4767,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima291-Vijay-Nagecha.png</image>
 	</member>
 	<member>
-		<id>532</id>
+		<id>531</id>
 		<name>Nagrecha Ravi B.</name>
 		<qualification>M. D. (General Medicine)</qualification>
 		<contact>9979604226</contact>
@@ -4789,7 +4776,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima227-Ravi-Nagreehs-.png</image>
 	</member>
 	<member>
-		<id>533</id>
+		<id>532</id>
 		<name>Nakrani Chandulal L.</name>
 		<qualification>M.B.B.S., C.I.H, A.F.I.H</qualification>
 		<contact>9898344811</contact>
@@ -4798,7 +4785,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima301-Chandulal--Nakrani.png</image>
 	</member>
 	<member>
-		<id>534</id>
+		<id>533</id>
 		<name>Nakum Narendrakumar T.</name>
 		<qualification>M.B.B.S., P.G.D.H.M.</qualification>
 		<contact>9016055598</contact>
@@ -4807,7 +4794,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima729-Narendra-Nakum.png</image>
 	</member>
 	<member>
-		<id>535</id>
+		<id>534</id>
 		<name>Nandani Sameer V.</name>
 		<qualification>M.D. (Pathology), D.C.P., L.L.B.</qualification>
 		<contact>9825399396</contact>
@@ -4816,7 +4803,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima631-Sammer-Nandani.png</image>
 	</member>
 	<member>
-		<id>536</id>
+		<id>535</id>
 		<name>Nandani Sandeep V.</name>
 		<qualification>M.D. (Radio Diagnosis)</qualification>
 		<contact>9825399395</contact>
@@ -4825,7 +4812,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima676-Sandeep-Nandani.png</image>
 	</member>
 	<member>
-		<id>537</id>
+		<id>536</id>
 		<name>Nandani Sanjiv L.</name>
 		<qualification>M. D. (Path. and Bact.)</qualification>
 		<contact>9825314831</contact>
@@ -4834,7 +4821,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima273-Sanjiv-Nandani.png</image>
 	</member>
 	<member>
-		<id>538</id>
+		<id>537</id>
 		<name>Nandani Vinod T.</name>
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>9374100814</contact>
@@ -4843,7 +4830,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima630-Vinod-Nandani.png</image>
 	</member>
 	<member>
-		<id>539</id>
+		<id>538</id>
 		<name>Nandha Paresh R.</name>
 		<qualification>M.S. (Orthopaedic)</qualification>
 		<contact>9825010478</contact>
@@ -4852,7 +4839,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima235-Paresh-Nandha.png</image>
 	</member>
 	<member>
-		<id>540</id>
+		<id>539</id>
 		<name>Nandha Rupal P.</name>
 		<qualification>M.S. (Ophthalmology)</qualification>
 		<contact>9426960801</contact>
@@ -4861,7 +4848,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima254-Rupal-Nandha.png</image>
 	</member>
 	<member>
-		<id>541</id>
+		<id>540</id>
 		<name>Nathwani Janmayjay K.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824398323</contact>
@@ -4870,7 +4857,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima224-Janmayjay-Nathwani-.png</image>
 	</member>
 	<member>
-		<id>542</id>
+		<id>541</id>
 		<name>Nathwani Pratibha T.</name>
 		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9426165235</contact>
@@ -4879,7 +4866,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima653-Pratibha-Nathwani.png</image>
 	</member>
 	<member>
-		<id>543</id>
+		<id>542</id>
 		<name>Nathwani Umang G.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824216490</contact>
@@ -4888,7 +4875,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima793-Umang-Nathwani.png</image>
 	</member>
 	<member>
-		<id>544</id>
+		<id>543</id>
 		<name>Nayadu Poonam S.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9374106768</contact>
@@ -4897,7 +4884,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima898-Poonam-Nayudu.png</image>
 	</member>
 	<member>
-		<id>545</id>
+		<id>544</id>
 		<name>Nayadu Subhas M.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9374106768</contact>
@@ -4906,7 +4893,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima901-Subhas-Naydu.png</image>
 	</member>
 	<member>
-		<id>546</id>
+		<id>545</id>
 		<name>Nesadia Kinjal N.</name>
 		<qualification>M.B.B.S., M.D. (Pathology)</qualification>
 		<contact>8530223895</contact>
@@ -4915,7 +4902,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima633-Kinjal-Nesadia.png</image>
 	</member>
 	<member>
-		<id>547</id>
+		<id>546</id>
 		<name>Nesadia Niraj H.</name>
 		<qualification>M.B.B.S., D.C.H. (Pediatrics)</qualification>
 		<contact>9408162856</contact>
@@ -4924,7 +4911,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima632-Niraj--Nesadia.png</image>
 	</member>
 	<member>
-		<id>548</id>
+		<id>547</id>
 		<name>Nimavat D. L.</name>
 		<qualification>M.D. (Medicine and Physician)</qualification>
 		<contact>9979601778</contact>
@@ -4933,7 +4920,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima672-D-L-Nimavat.png</image>
 	</member>
 	<member>
-		<id>549</id>
+		<id>548</id>
 		<name>Nimavat Nilesh G.</name>
 		<qualification>M.S. (General Surgen)</qualification>
 		<contact>9426480450</contact>
@@ -4942,7 +4929,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima908-Nilesh-Nimavat.png</image>
 	</member>
 	<member>
-		<id>550</id>
+		<id>549</id>
 		<name>Odedra Gajendra R.</name>
 		<qualification>M.D. (Medicine), DNB (Gastroenterology)</qualification>
 		<contact>9909906067</contact>
@@ -4951,7 +4938,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima656-Gajendra-Odedara.png</image>
 	</member>
 	<member>
-		<id>551</id>
+		<id>550</id>
 		<name>Oza Mita M.</name>
 		<qualification>M.D., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9428344857</contact>
@@ -4960,7 +4947,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima480-Mita-Oza.png</image>
 	</member>
 	<member>
-		<id>552</id>
+		<id>551</id>
 		<name>Padhara Pareshkumar V.</name>
 		<qualification>M.B.B.S., M.D. (Radiology)</qualification>
 		<contact>9978829292</contact>
@@ -4969,7 +4956,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima659-Paresh-Padhara.png</image>
 	</member>
 	<member>
-		<id>553</id>
+		<id>552</id>
 		<name>Padodara Nilesh</name>
 		<qualification>M.B., M.S., M.ch (Plastic Surgery)</qualification>
 		<contact>9825163323</contact>
@@ -4978,7 +4965,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima800-Nilesh-Padodara.png</image>
 	</member>
 	<member>
-		<id>554</id>
+		<id>553</id>
 		<name>Panara Ambrish M.</name>
 		<qualification>M.B.B.S., D.C.H., (Neonatology and DNB-Paediatrics)</qualification>
 		<contact>9427200578</contact>
@@ -4987,7 +4974,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima549-Ambrish-Panara.png</image>
 	</member>
 	<member>
-		<id>555</id>
+		<id>554</id>
 		<name>Pandit Nilesh A.</name>
 		<qualification>M.S. (Ophthalmology)</qualification>
 		<contact>9824448878</contact>
@@ -4996,7 +4983,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima390-Nilesh-Pandit.png</image>
 	</member>
 	<member>
-		<id>556</id>
+		<id>555</id>
 		<name>Pandya Alpesh K.</name>
 		<qualification>D.M., M.D. (Urology)</qualification>
 		<contact>9825292925</contact>
@@ -5005,7 +4992,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima602-Alpesh-Pandya.png</image>
 	</member>
 	<member>
-		<id>557</id>
+		<id>556</id>
 		<name>Pandya Arvindkumar H.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824218530</contact>
@@ -5014,7 +5001,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima879-Arvind-Pandya.png</image>
 	</member>
 	<member>
-		<id>558</id>
+		<id>557</id>
 		<name>Pandya Asmi A.</name>
 		<qualification>M.D. (Skin -V.D. and Dermatology)</qualification>
 		<contact>9825257577</contact>
@@ -5023,7 +5010,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima601-Asmi-Pandya.png</image>
 	</member>
 	<member>
-		<id>559</id>
+		<id>558</id>
 		<name>Pandya Atul</name>
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>9824284947</contact>
@@ -5032,7 +5019,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima733-Atul-Pandya.png</image>
 	</member>
 	<member>
-		<id>560</id>
+		<id>559</id>
 		<name>Pandya Chandrika Y.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9824225429</contact>
@@ -5041,7 +5028,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima173-Chandrika-Pandya-.png</image>
 	</member>
 	<member>
-		<id>561</id>
+		<id>560</id>
 		<name>Pandya Darshana A.</name>
 		<qualification>M.D. (Ob. and Gyn.)</qualification>
 		<contact>9426973363</contact>
@@ -5050,7 +5037,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima695-Darshana-Pandya.png</image>
 	</member>
 	<member>
-		<id>562</id>
+		<id>561</id>
 		<name>Pandya Krishanakant B.</name>
 		<qualification>M.D. (Skin - V.D., Dermatology and Cosmetology)</qualification>
 		<contact>9824239239</contact>
@@ -5059,7 +5046,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima759-Krishnakant-Pandya.png</image>
 	</member>
 	<member>
-		<id>563</id>
+		<id>562</id>
 		<name>Pandya Nalini V.</name>
 		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>0</contact>
@@ -5068,7 +5055,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima144-Nalini-Pandya-.png</image>
 	</member>
 	<member>
-		<id>564</id>
+		<id>563</id>
 		<name>Pandya Paresh N.</name>
 		<qualification>M.B., M.S. (Orthopaedic)</qualification>
 		<contact>9825078058</contact>
@@ -5077,7 +5064,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima331-Paresh-Pandya.png</image>
 	</member>
 	<member>
-		<id>565</id>
+		<id>564</id>
 		<name>Pandya Parul N.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9998815927</contact>
@@ -5086,7 +5073,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima524-Parul-Pandya.png</image>
 	</member>
 	<member>
-		<id>566</id>
+		<id>565</id>
 		<name>Pandya Rajendra S.</name>
 		<qualification>M.B.B.S., F.C.G.P.</qualification>
 		<contact>9428464026</contact>
@@ -5095,7 +5082,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima936-Rajendra-Pandya.png</image>
 	</member>
 	<member>
-		<id>567</id>
+		<id>566</id>
 		<name>Pandya Sanjay</name>
 		<qualification>M.D., D.N.B. (Nephrology)</qualification>
 		<contact>9825079122</contact>
@@ -5104,7 +5091,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima876-Sanjay-Pandya.png</image>
 	</member>
 	<member>
-		<id>568</id>
+		<id>567</id>
 		<name>Pandya Sharadchandra H.</name>
 		<qualification>M.D. (Anaenthesiology)</qualification>
 		<contact>9727690307</contact>
@@ -5113,7 +5100,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima911-Sharadchandra-Pandya.png</image>
 	</member>
 	<member>
-		<id>569</id>
+		<id>568</id>
 		<name>Pandya Snehal H.</name>
 		<qualification>M.S. (Ophthalmology)</qualification>
 		<contact>9898888468</contact>
@@ -5122,7 +5109,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima342-Snehal-Pandya.png</image>
 	</member>
 	<member>
-		<id>570</id>
+		<id>569</id>
 		<name>Pandya Vinod P.</name>
 		<qualification>M.S. Ent DORC (ENT)</qualification>
 		<contact>9879969087</contact>
@@ -5131,7 +5118,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima143-Vinod-Pandya-.png</image>
 	</member>
 	<member>
-		<id>571</id>
+		<id>570</id>
 		<name>Pandya Yash V.</name>
 		<qualification>M.S. (ENT) F.A.I.N.O.T. (Neurology and Skull Base Surgery)</qualification>
 		<contact>9879148980</contact>
@@ -5140,7 +5127,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima145-Yash-Pandya-.png</image>
 	</member>
 	<member>
-		<id>572</id>
+		<id>571</id>
 		<name>Pandya Yogendra B.</name>
 		<qualification>M.B.B.S., D.C.P., M.D. (Pathology)</qualification>
 		<contact>9427564736</contact>
@@ -5149,7 +5136,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima172-Yogendra-Pandya-.png</image>
 	</member>
 	<member>
-		<id>573</id>
+		<id>572</id>
 		<name>Panelia Rajnikant R.</name>
 		<qualification>M.B.B.S., D.M.S. (Eye Surgeon)</qualification>
 		<contact>9428253802</contact>
@@ -5158,7 +5145,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima821-Rajnikant-Panelia.png</image>
 	</member>
 	<member>
-		<id>574</id>
+		<id>573</id>
 		<name>Pansura Mahesh H.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9824456425</contact>
@@ -5167,7 +5154,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima428-Mahesh-Pansara.png</image>
 	</member>
 	<member>
-		<id>575</id>
+		<id>574</id>
 		<name>Pansuriya Ashvin R.</name>
 		<qualification>M.D., D.N.B. (Radio Diagnosis)</qualification>
 		<contact>9879443292</contact>
@@ -5176,7 +5163,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima501-Ashwin-Pansuriya.png</image>
 	</member>
 	<member>
-		<id>576</id>
+		<id>575</id>
 		<name>Parekh Bharat H.</name>
 		<qualification>M.D. (Medicine)</qualification>
 		<contact>9824221450</contact>
@@ -5185,7 +5172,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima290-Bharat-Parekh.png</image>
 	</member>
 	<member>
-		<id>577</id>
+		<id>576</id>
 		<name>Parekh Dhiren B.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428792400</contact>
@@ -5194,7 +5181,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Parekh-Dhiren.png</image>
 	</member>
 	<member>
-		<id>578</id>
+		<id>577</id>
 		<name>Parekh Hitesh P.</name>
 		<qualification>M.B.B.S., M.S. (Ophthalmology)</qualification>
 		<contact>9824242590</contact>
@@ -5203,7 +5190,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima126-Hitesh-Parekh.png</image>
 	</member>
 	<member>
-		<id>579</id>
+		<id>578</id>
 		<name>Parekh Shakuntla G.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9427253139</contact>
@@ -5212,7 +5199,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima564-Shakuntala-Parekh.png</image>
 	</member>
 	<member>
-		<id>580</id>
+		<id>579</id>
 		<name>Parikh Beena K.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9824221932</contact>
@@ -5221,7 +5208,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima407-Beena-Parikh.png</image>
 	</member>
 	<member>
-		<id>581</id>
+		<id>580</id>
 		<name>Parikh Kamal C.</name>
 		<qualification>M.D. (Internal Medicine)</qualification>
 		<contact>9824231580</contact>
@@ -5230,7 +5217,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima406-Kamal-Parekh.png</image>
 	</member>
 	<member>
-		<id>582</id>
+		<id>581</id>
 		<name>Parikh Niranjan V.</name>
 		<qualification>M.D., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9375013134</contact>
@@ -5239,7 +5226,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima627-Nirjan-Parikh.png</image>
 	</member>
 	<member>
-		<id>583</id>
+		<id>582</id>
 		<name>Parikh Pratima N.</name>
 		<qualification>M.D., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9427220622</contact>
@@ -5248,7 +5235,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima628-Pratima-Parekh.png</image>
 	</member>
 	<member>
-		<id>584</id>
+		<id>583</id>
 		<name>Parikh Sameer G.</name>
 		<qualification>M.S. (General Surgon)</qualification>
 		<contact>9099010580</contact>
@@ -5257,7 +5244,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/PIma798-Sameer-Parikh.png</image>
 	</member>
 	<member>
-		<id>585</id>
+		<id>584</id>
 		<name>Parikh Snehal C.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428050261</contact>
@@ -5266,7 +5253,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima883-Snehal-Parikh.png</image>
 	</member>
 	<member>
-		<id>586</id>
+		<id>585</id>
 		<name>Parmar Kirankumar I.</name>
 		<qualification>M.D., D.M.R.E. (Radiology)</qualification>
 		<contact>9825387563</contact>
@@ -5275,7 +5262,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima408-Kiran-Parmar.png</image>
 	</member>
 	<member>
-		<id>587</id>
+		<id>586</id>
 		<name>Parmar Monika J.</name>
 		<qualification>M.B.B.S., D.C.P. (Pathology)</qualification>
 		<contact>9426267491</contact>
@@ -5284,7 +5271,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima313-Monika-Parmar.png</image>
 	</member>
 	<member>
-		<id>588</id>
+		<id>587</id>
 		<name>Parmar Nathalal P.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9537210299</contact>
@@ -5293,7 +5280,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima489-Nathalal-Parmar.png</image>
 	</member>
 	<member>
-		<id>589</id>
+		<id>588</id>
 		<name>Parmar Pratyush V.</name>
 		<qualification>M.B.B.S., D.C.P. (Pathology)</qualification>
 		<contact>9979948603</contact>
@@ -5302,7 +5289,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima121-Pratyush-Parmar-.png</image>
 	</member>
 	<member>
-		<id>590</id>
+		<id>589</id>
 		<name>Parmar Ravindra V.</name>
 		<qualification>M.B.B.S., M.D. (Medicine)</qualification>
 		<contact>9427445601</contact>
@@ -5311,7 +5298,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima332-Ravindra-Parmar.png</image>
 	</member>
 	<member>
-		<id>591</id>
+		<id>590</id>
 		<name>Parmar Tushar N.</name>
 		<qualification>M.D. (Medicne), IDCC, FCCM</qualification>
 		<contact>9820863981</contact>
@@ -5320,7 +5307,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima490-Tushar-Parmar.png</image>
 	</member>
 	<member>
-		<id>592</id>
+		<id>591</id>
 		<name>Parmar Vandana S.</name>
 		<qualification>M.D. (Anaenthesiology)</qualification>
 		<contact>9898090220</contact>
@@ -5329,7 +5316,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima620-Vandana-Parmar.png</image>
 	</member>
 	<member>
-		<id>593</id>
+		<id>592</id>
 		<name>Pasani Sonal V.</name>
 		<qualification>M. D. (Ob. and Gy.)</qualification>
 		<contact>9824284114</contact>
@@ -5338,7 +5325,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima270-Sonal-Pasani.png</image>
 	</member>
 	<member>
-		<id>594</id>
+		<id>593</id>
 		<name>Pasani Vasant A.</name>
 		<qualification>M. S. (General Surgery)</qualification>
 		<contact>9824284114</contact>
@@ -5347,7 +5334,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima269-Vasant-Pasani.png</image>
 	</member>
 	<member>
-		<id>595</id>
+		<id>594</id>
 		<name>Patel Akash A.</name>
 		<qualification>F.M.R.F. (Retina), F.M.R.F. (Phoco)</qualification>
 		<contact>9426841568</contact>
@@ -5356,7 +5343,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima465-Akash-Patel.png</image>
 	</member>
 	<member>
-		<id>596</id>
+		<id>595</id>
 		<name>Patel Amit H.</name>
 		<qualification>M.B.B.S., M.S. (General Surgery), D.N.B. (Urology)</qualification>
 		<contact>9909944632</contact>
@@ -5365,7 +5352,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima261-Amit-Patel.png</image>
 	</member>
 	<member>
-		<id>597</id>
+		<id>596</id>
 		<name>Patel Amritlal M.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9825547459</contact>
@@ -5374,7 +5361,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima319-Amritlal-Patel.png</image>
 	</member>
 	<member>
-		<id>598</id>
+		<id>597</id>
 		<name>Patel Anil R.</name>
 		<qualification>M.D. (Paediatrics)</qualification>
 		<contact>9427723966</contact>
@@ -5383,7 +5370,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima004-Anil-Patel.png</image>
 	</member>
 	<member>
-		<id>599</id>
+		<id>598</id>
 		<name>Patel Anjana J.</name>
 		<qualification>M.D. (Radio Diagnosis)</qualification>
 		<contact>9824838197</contact>
@@ -5392,7 +5379,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima859-Anjana-Patel.png</image>
 	</member>
 	<member>
-		<id>600</id>
+		<id>599</id>
 		<name>Patel Arun G.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428255808</contact>
@@ -5401,7 +5388,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima300-Arun-Patel.png</image>
 	</member>
 	<member>
-		<id>601</id>
+		<id>600</id>
 		<name>Patel Ashok A.</name>
 		<qualification>M.D. (Anaesthesia)</qualification>
 		<contact>9825075303</contact>
@@ -5410,7 +5397,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima049-Ashok-Patel.png</image>
 	</member>
 	<member>
-		<id>602</id>
+		<id>601</id>
 		<name>Patel B. J.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>0</contact>
@@ -5419,7 +5406,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima904-B-J-Patel.png</image>
 	</member>
 	<member>
-		<id>603</id>
+		<id>602</id>
 		<name>Patel Beena D.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9825075914</contact>
@@ -5428,7 +5415,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima478-Beena-Patel.png</image>
 	</member>
 	<member>
-		<id>604</id>
+		<id>603</id>
 		<name>Patel Bharti K.</name>
 		<qualification>M.D. (Skin and V.D.)</qualification>
 		<contact>0</contact>
@@ -5437,7 +5424,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima956-Bharti-Patel.png</image>
 	</member>
 	<member>
-		<id>605</id>
+		<id>604</id>
 		<name>Patel Bhoomika</name>
 		<qualification>M.B.B.S., M.D. (Pathology)</qualification>
 		<contact>9408523669</contact>
@@ -5446,7 +5433,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima637-Bhoomika-Patel.png</image>
 	</member>
 	<member>
-		<id>606</id>
+		<id>605</id>
 		<name>Patel Bipin</name>
 		<qualification>M.D. (Internal Medicine)</qualification>
 		<contact>9586421468</contact>
@@ -5455,7 +5442,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima225-Bipin-Patel-.png</image>
 	</member>
 	<member>
-		<id>607</id>
+		<id>606</id>
 		<name>Patel Bipin J.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9374127954</contact>
@@ -5464,7 +5451,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima177-Bipin-Patel-.png</image>
 	</member>
 	<member>
-		<id>608</id>
+		<id>607</id>
 		<name>Patel Chandan A.</name>
 		<qualification>M.B.B.S., M.S. (Ophthalmology)</qualification>
 		<contact>9909960632</contact>
@@ -5473,7 +5460,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima262-Chandan-Patel.png</image>
 	</member>
 	<member>
-		<id>609</id>
+		<id>608</id>
 		<name>Patel Chandresh M.</name>
 		<qualification>M.B.B.S., D.G.O. (Ob. and Gy.)</qualification>
 		<contact>9824405514</contact>
@@ -5482,7 +5469,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima206-Chandresh-Patel-.png</image>
 	</member>
 	<member>
-		<id>610</id>
+		<id>609</id>
 		<name>Patel Chirag V.</name>
 		<qualification>M.D. (Paediatrics)</qualification>
 		<contact>0</contact>
@@ -5491,7 +5478,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima338-Chirag-Patel.png</image>
 	</member>
 	<member>
-		<id>611</id>
+		<id>610</id>
 		<name>Patel Chunilal G.</name>
 		<qualification>M.B.B.S. (Physician)</qualification>
 		<contact>2812472788</contact>
@@ -5500,7 +5487,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima285-Chunilal-Patel.png</image>
 	</member>
 	<member>
-		<id>612</id>
+		<id>611</id>
 		<name>Patel Denish J.</name>
 		<qualification>M.B.B.S., D.A.</qualification>
 		<contact>9825274647</contact>
@@ -5509,7 +5496,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima881-Denish-Patel.png</image>
 	</member>
 	<member>
-		<id>613</id>
+		<id>612</id>
 		<name>Patel Dilipbhai K.</name>
 		<qualification>M. S. (General Surgery)</qualification>
 		<contact>9825672080</contact>
@@ -5518,7 +5505,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima517-Dilip-Patel.png</image>
 	</member>
 	<member>
-		<id>614</id>
+		<id>613</id>
 		<name>Patel Dipak M.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9879417776</contact>
@@ -5527,7 +5514,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima479-Deepak-Patel.png</image>
 	</member>
 	<member>
-		<id>615</id>
+		<id>614</id>
 		<name>Patel Dishaben R.</name>
 		<qualification>M.B.B.S., M. D. (Anaesthesia)</qualification>
 		<contact>9978742205</contact>
@@ -5536,7 +5523,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima238-Disha-Patel.png</image>
 	</member>
 	<member>
-		<id>616</id>
+		<id>615</id>
 		<name>Patel G. L.</name>
 		<qualification>M.D. (Radio Diagnosis)</qualification>
 		<contact>9725076011</contact>
@@ -5545,7 +5532,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima286-Girdharlal-Patel.png</image>
 	</member>
 	<member>
-		<id>617</id>
+		<id>616</id>
 		<name>Patel G. N.</name>
 		<qualification>M.B.B.S. PGDHM</qualification>
 		<contact>9998968199</contact>
@@ -5554,7 +5541,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima321-G-N-Patel.png</image>
 	</member>
 	<member>
-		<id>618</id>
+		<id>617</id>
 		<name>Patel Girish H.</name>
 		<qualification>M.D. (General Medicine)</qualification>
 		<contact>9374100388</contact>
@@ -5563,7 +5550,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima314-Girish-Patel.png</image>
 	</member>
 	<member>
-		<id>619</id>
+		<id>618</id>
 		<name>Patel Hetal D.</name>
 		<qualification>M.B.B.S., MD(Path.), DNB (Path.)</qualification>
 		<contact>9427844453</contact>
@@ -5572,7 +5559,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima042-Hetal-Patel.png</image>
 	</member>
 	<member>
-		<id>620</id>
+		<id>619</id>
 		<name>Patel Hitendra A.</name>
 		<qualification>M.B.B.S., M.D. (Skin, VD, Dermatology, Venerologist, Cosmetology)</qualification>
 		<contact>9426242801</contact>
@@ -5581,7 +5568,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima322-Hitendra-Patel.png</image>
 	</member>
 	<member>
-		<id>621</id>
+		<id>620</id>
 		<name>Patel Indrajit M.</name>
 		<qualification>B.A.M.S., L.M.P.</qualification>
 		<contact>9429046588</contact>
@@ -5590,7 +5577,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima747-Indrajit-Patel.png</image>
 	</member>
 	<member>
-		<id>622</id>
+		<id>621</id>
 		<name>Patel Janak A.</name>
 		<qualification>M.D. (Anaenthesiology)</qualification>
 		<contact>9825408908</contact>
@@ -5599,7 +5586,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima538-Janak-Patel.png</image>
 	</member>
 	<member>
-		<id>623</id>
+		<id>622</id>
 		<name>Patel Jatin</name>
 		<qualification>M.B.B.S., D.O.M.S. (Ophthalmology)</qualification>
 		<contact>9825442648</contact>
@@ -5608,7 +5595,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima500-Jatin-Patel.png</image>
 	</member>
 	<member>
-		<id>624</id>
+		<id>623</id>
 		<name>Patel Jatin J.</name>
 		<qualification>M.B.B.S., DVD (Skin and Vd), DNB (Derm and Ven), MNAMS (Derm and Ven)</qualification>
 		<contact>9727962524</contact>
@@ -5617,7 +5604,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima041-Jayesh-Patel.png</image>
 	</member>
 	<member>
-		<id>625</id>
+		<id>624</id>
 		<name>Patel Jayesh K.</name>
 		<qualification>M.S. (ENT). D.L.O.</qualification>
 		<contact>9824234902</contact>
@@ -5626,7 +5613,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima935-Jayesh-Patel.png</image>
 	</member>
 	<member>
-		<id>626</id>
+		<id>625</id>
 		<name>Patel Jayesh P.</name>
 		<qualification>M.D. (Anaesthesiology)</qualification>
 		<contact>9824286885</contact>
@@ -5635,7 +5622,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima393-Jayesh-Patel.png</image>
 	</member>
 	<member>
-		<id>627</id>
+		<id>626</id>
 		<name>Patel Jigar N.</name>
 		<qualification>M.S. (General Surgeon)</qualification>
 		<contact>9428232932</contact>
@@ -5644,7 +5631,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima320-Jigar-Patel.png</image>
 	</member>
 	<member>
-		<id>628</id>
+		<id>627</id>
 		<name>Patel Jigna J.</name>
 		<qualification>M.D. (Paediatrics)</qualification>
 		<contact>9824092370</contact>
@@ -5653,7 +5640,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima934-Jigna-Patel.png</image>
 	</member>
 	<member>
-		<id>629</id>
+		<id>628</id>
 		<name>Patel Jignesh V.</name>
 		<qualification>M.D. (Path. and Micro.)</qualification>
 		<contact>9879550081</contact>
@@ -5662,7 +5649,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima307-Jignesh-Patel.png</image>
 	</member>
 	<member>
-		<id>630</id>
+		<id>629</id>
 		<name>Patel Jitendra N.</name>
 		<qualification>M.S. (ENT)</qualification>
 		<contact>9726538428</contact>
@@ -5671,7 +5658,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima860-Jitendra-Patel.png</image>
 	</member>
 	<member>
-		<id>631</id>
+		<id>630</id>
 		<name>Patel Jyoti A.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9824228703</contact>
@@ -5680,7 +5667,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima577-Jyoti-Patel.png</image>
 	</member>
 	<member>
-		<id>632</id>
+		<id>631</id>
 		<name>Patel Kajal D.</name>
 		<qualification>M.B.B.S., D.O.M.S.</qualification>
 		<contact>9824034789</contact>
@@ -5689,7 +5676,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima482-Kajal-patel.png</image>
 	</member>
 	<member>
-		<id>633</id>
+		<id>632</id>
 		<name>Patel Kamlesh B.</name>
 		<qualification>M.D. (Psychiatry)</qualification>
 		<contact>0</contact>
@@ -5698,7 +5685,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima957-Kamlesh-Patel.png</image>
 	</member>
 	<member>
-		<id>634</id>
+		<id>633</id>
 		<name>Patel Kavit J.</name>
 		<qualification>M.B.B.S., M.S. (Orthopaedic)</qualification>
 		<contact>9825759408</contact>
@@ -5707,7 +5694,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima783-Kauit-Patel.png</image>
 	</member>
 	<member>
-		<id>635</id>
+		<id>634</id>
 		<name>Patel Kiritkumar P.</name>
 		<qualification>M.D. (Path. and Micro.)</qualification>
 		<contact>9374101489</contact>
@@ -5716,7 +5703,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima308-Kirit-Patel.png</image>
 	</member>
 	<member>
-		<id>636</id>
+		<id>635</id>
 		<name>Patel Kirti V.</name>
 		<qualification>M.D. (Paediatrics)</qualification>
 		<contact>9824200831</contact>
@@ -5725,7 +5712,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/PIma527-Kirti-PATEL.png</image>
 	</member>
 	<member>
-		<id>637</id>
+		<id>636</id>
 		<name>Patel Kirti Z.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9824213536</contact>
@@ -5734,7 +5721,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima418-Kirit-patel.png</image>
 	</member>
 	<member>
-		<id>638</id>
+		<id>637</id>
 		<name>Patel Krishna K.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9904572375</contact>
@@ -5743,7 +5730,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima784-Krishna-Patel.png</image>
 	</member>
 	<member>
-		<id>639</id>
+		<id>638</id>
 		<name>Patel Kumudchandra M.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9825245002</contact>
@@ -5752,7 +5739,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima377-Kumudchandra-Patel.png</image>
 	</member>
 	<member>
-		<id>640</id>
+		<id>639</id>
 		<name>Patel Kurjibhai G.</name>
 		<qualification>B.Sc, M.B.B.S.</qualification>
 		<contact>9624718506</contact>
@@ -5761,7 +5748,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima113-Kurji-Patel-.png</image>
 	</member>
 	<member>
-		<id>641</id>
+		<id>640</id>
 		<name>Patel Mahadevbhai G.</name>
 		<qualification>M. D. (Medicine)</qualification>
 		<contact>9825075822</contact>
@@ -5770,7 +5757,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima242-Mahadev-Patel.png</image>
 	</member>
 	<member>
-		<id>642</id>
+		<id>641</id>
 		<name>Patel Manisha</name>
 		<qualification>M.B.B.S., D.C.H., P.G.D.H.M. (Paediatrics)</qualification>
 		<contact>9898183085</contact>
@@ -5779,7 +5766,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima894-Manisha-Patel.png</image>
 	</member>
 	<member>
-		<id>643</id>
+		<id>642</id>
 		<name>Patel Mehul J.</name>
 		<qualification>M.B.B.S., M.D. (Medicine), D.M. (Neurology)</qualification>
 		<contact>9537378403</contact>
@@ -5788,7 +5775,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima018-Mehul-Patel.png</image>
 	</member>
 	<member>
-		<id>644</id>
+		<id>643</id>
 		<name>Patel Mukesh K.</name>
 		<qualification>M.D. (Psychiatry)</qualification>
 		<contact>9376623322</contact>
@@ -5797,7 +5784,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima129-Mukesh-Patel-.png</image>
 	</member>
 	<member>
-		<id>645</id>
+		<id>644</id>
 		<name>Patel Narenda K.</name>
 		<qualification>M.B.B.S., M.S. (General Surgeon)</qualification>
 		<contact>9879059019</contact>
@@ -5806,7 +5793,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima432-Narendra-Patel.png</image>
 	</member>
 	<member>
-		<id>646</id>
+		<id>645</id>
 		<name>Patel Nilam B.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9374127954</contact>
@@ -5815,7 +5802,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima181-Nilam-Patel-.png</image>
 	</member>
 	<member>
-		<id>647</id>
+		<id>646</id>
 		<name>Patel Nimesh H.</name>
 		<qualification>M.B.B.S., M.D. (Anaesthesia)</qualification>
 		<contact>9723816184</contact>
@@ -5824,7 +5811,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima241-Nimiesh-Patel.png</image>
 	</member>
 	<member>
-		<id>648</id>
+		<id>647</id>
 		<name>Patel Nisheeth S.</name>
 		<qualification>M.B.B.S., M.D. (Medicine) D.M. (Neurology)</qualification>
 		<contact>9913913913</contact>
@@ -5833,7 +5820,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima422-Nisheet-Patel.png</image>
 	</member>
 	<member>
-		<id>649</id>
+		<id>648</id>
 		<name>Patel Nita S.</name>
 		<qualification>M.B.B.S. D.G.O (Gynaecology)</qualification>
 		<contact>9825246567</contact>
@@ -5842,7 +5829,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/PIma325-Nita-Patel.png</image>
 	</member>
 	<member>
-		<id>650</id>
+		<id>649</id>
 		<name>Patel P. N.</name>
 		<qualification>M.D. (Anesthesiology)</qualification>
 		<contact>9824216036</contact>
@@ -5851,7 +5838,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima804-P-N-Patel.png</image>
 	</member>
 	<member>
-		<id>651</id>
+		<id>650</id>
 		<name>Patel Pankaj M.</name>
 		<qualification>M.B.B.S., M.D. (Medical), D.N.B. (Endocrinologist)</qualification>
 		<contact>8238707090</contact>
@@ -5860,7 +5847,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima777-Pankaj-Patel.png</image>
 	</member>
 	<member>
-		<id>652</id>
+		<id>651</id>
 		<name>Patel Parshotam M.</name>
 		<qualification>M.B.B.S., P.G.D.M.C.H.</qualification>
 		<contact>9427200136</contact>
@@ -5869,7 +5856,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima026-Parshotam-Patel.png</image>
 	</member>
 	<member>
-		<id>653</id>
+		<id>652</id>
 		<name>Patel Priyanka J.</name>
 		<qualification>M.B.B.S, D.A</qualification>
 		<contact>9825308908</contact>
@@ -5878,7 +5865,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima537-Priyanka-Patel.png</image>
 	</member>
 	<member>
-		<id>654</id>
+		<id>653</id>
 		<name>Patel Rajkumar A.</name>
 		<qualification>M.B.B.S., M.S. (General Surgery)</qualification>
 		<contact>9879256126</contact>
@@ -5887,7 +5874,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima237-Rajkumar-Patel.png</image>
 	</member>
 	<member>
-		<id>655</id>
+		<id>654</id>
 		<name>Patel Rakesh</name>
 		<qualification>M.D. (Paediatric)</qualification>
 		<contact>9825347359</contact>
@@ -5896,7 +5883,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima895-Rakesh-Patel.png</image>
 	</member>
 	<member>
-		<id>656</id>
+		<id>655</id>
 		<name>Patel Rasik S.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428463600</contact>
@@ -5905,7 +5892,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/PIma336-Rasik-Patel.png</image>
 	</member>
 	<member>
-		<id>657</id>
+		<id>656</id>
 		<name>Patel Rekha A.</name>
 		<qualification>M.D. (Ob. and Gy.)</qualification>
 		<contact>9427725057</contact>
@@ -5914,7 +5901,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima001-Rekha-Patel-.png</image>
 	</member>
 	<member>
-		<id>658</id>
+		<id>657</id>
 		<name>Patel Rita N.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9879059019</contact>
@@ -5923,7 +5910,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima433-Rital-Patel.png</image>
 	</member>
 	<member>
-		<id>659</id>
+		<id>658</id>
 		<name>Patel Saifuddin N.</name>
 		<qualification>(Radiology)</qualification>
 		<contact>9924577814</contact>
@@ -5932,7 +5919,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima327-Saifuddin-Patel.png</image>
 	</member>
 	<member>
-		<id>660</id>
+		<id>659</id>
 		<name>Patel Sandip D.</name>
 		<qualification>M.B.B.S., M.B.A. (Healthcare Management), PGDMLS, QMEAHO</qualification>
 		<contact>9825640647</contact>
@@ -5941,7 +5928,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima315-Sandip-Patel.png</image>
 	</member>
 	<member>
-		<id>661</id>
+		<id>660</id>
 		<name>Patel Sanjay B.</name>
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>9824291144</contact>
@@ -5950,7 +5937,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima255-Sanjay-Patel.png</image>
 	</member>
 	<member>
-		<id>662</id>
+		<id>661</id>
 		<name>Patel Sanjiv B.</name>
 		<qualification>M.S., D.N.B. (Urology)</qualification>
 		<contact>2812483530</contact>
@@ -5959,7 +5946,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima903-Sanjiv-Patel.png</image>
 	</member>
 	<member>
-		<id>663</id>
+		<id>662</id>
 		<name>Patel Shweta J.</name>
 		<qualification>M.B.B.S., D.G.O., D.N.B. (Ob. and Gy.)</qualification>
 		<contact>9586476828</contact>
@@ -5968,7 +5955,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima039-Shweta-Patel.png</image>
 	</member>
 	<member>
-		<id>664</id>
+		<id>663</id>
 		<name>Patel Siddharth C.</name>
 		<qualification>M.D. (Paediatric)</qualification>
 		<contact>9824063131</contact>
@@ -5977,7 +5964,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima324-Siddharth-Patel.png</image>
 	</member>
 	<member>
-		<id>665</id>
+		<id>664</id>
 		<name>Patel Suryakant R.</name>
 		<qualification>G.F.A.M., L.M.P.</qualification>
 		<contact>0</contact>
@@ -5986,7 +5973,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima067-Suryakant-Patel.png</image>
 	</member>
 	<member>
-		<id>666</id>
+		<id>665</id>
 		<name>Patel Tushar S.</name>
 		<qualification>M.D. (T.B and Chest Diseases)</qualification>
 		<contact>9879571317</contact>
@@ -5995,7 +5982,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima218-Tushar-Patel-.png</image>
 	</member>
 	<member>
-		<id>667</id>
+		<id>666</id>
 		<name>Patel Umed V.</name>
 		<qualification>M.D. (P.S.M.)</qualification>
 		<contact>9426996010</contact>
@@ -6004,7 +5991,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima819-Umed-Patel.png</image>
 	</member>
 	<member>
-		<id>668</id>
+		<id>667</id>
 		<name>Patel Vinaykant P.</name>
 		<qualification>M.S., D.O.M.S.</qualification>
 		<contact>9228595162</contact>
@@ -6013,7 +6000,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima043-Vinaykant-Patel.png</image>
 	</member>
 	<member>
-		<id>669</id>
+		<id>668</id>
 		<name>Patel Vinod R.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9825709838</contact>
@@ -6022,7 +6009,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima252-Vinod-Patel.png</image>
 	</member>
 	<member>
-		<id>670</id>
+		<id>669</id>
 		<name>Patel Vipul M.</name>
 		<qualification>M.D. (Radiation Oncology)</qualification>
 		<contact>9824206672</contact>
@@ -6031,7 +6018,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima528-Vipul-Patel.png</image>
 	</member>
 	<member>
-		<id>671</id>
+		<id>670</id>
 		<name>Patil Ajay K.</name>
 		<qualification>M.B.B.S., M.S., M.Ch (Cardio Vascular and Throatic Surgeon)</qualification>
 		<contact>9825078095</contact>
@@ -6040,7 +6027,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima523-Ajay-Patil.png</image>
 	</member>
 	<member>
-		<id>672</id>
+		<id>671</id>
 		<name>Patil Deeva A.</name>
 		<qualification>M.B.B.S., M.D. (Pathology)</qualification>
 		<contact>9898541711</contact>
@@ -6049,7 +6036,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima522-Deeva-Patil.png</image>
 	</member>
 	<member>
-		<id>673</id>
+		<id>672</id>
 		<name>Patolia Hetal</name>
 		<qualification>M.D. (Ob. and Gy.), PGDMLS</qualification>
 		<contact>9978983170</contact>
@@ -6058,7 +6045,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima569-Hetal-Patolia.png</image>
 	</member>
 	<member>
-		<id>674</id>
+		<id>673</id>
 		<name>Patolia Sanjay</name>
 		<qualification>M.S., D.A.L.S</qualification>
 		<contact>9825183170</contact>
@@ -6067,7 +6054,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima554-Sanjay-Patolia.png</image>
 	</member>
 	<member>
-		<id>675</id>
+		<id>674</id>
 		<name>Pipalia Dhirajlal K.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9879167519</contact>
@@ -6076,7 +6063,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima266-Dhirjlal-Pipalia.png</image>
 	</member>
 	<member>
-		<id>676</id>
+		<id>675</id>
 		<name>Pipalia Ketan J.</name>
 		<qualification>M.B.B.S., M.D. (Anaesthesioligy)</qualification>
 		<contact>9426045106</contact>
@@ -6085,7 +6072,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima764-Ketan-Pipaliya.png</image>
 	</member>
 	<member>
-		<id>677</id>
+		<id>676</id>
 		<name>Piparia Kiran G.</name>
 		<qualification>M.D. (Pharmacology)</qualification>
 		<contact>9998961886</contact>
@@ -6094,7 +6081,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima185-Kiran-Piparia.png</image>
 	</member>
 	<member>
-		<id>678</id>
+		<id>677</id>
 		<name>Popat Kirit</name>
 		<qualification>M.D.</qualification>
 		<contact>9825115205</contact>
@@ -6103,7 +6090,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima456-Kirit-Popat.png</image>
 	</member>
 	<member>
-		<id>679</id>
+		<id>678</id>
 		<name>Popat Kshama B.</name>
 		<qualification>M.B.B.S., M.S (Ophthalmology)</qualification>
 		<contact>9033824737</contact>
@@ -6112,7 +6099,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima141-Kshama-Popat-.png</image>
 	</member>
 	<member>
-		<id>680</id>
+		<id>679</id>
 		<name>Popat Nileshkumar H.</name>
 		<qualification>M.D. (Anaesthesiology)</qualification>
 		<contact>9824059268</contact>
@@ -6121,7 +6108,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima730-Nilesh-Popat.png</image>
 	</member>
 	<member>
-		<id>681</id>
+		<id>680</id>
 		<name>Popat Sanjay S.</name>
 		<qualification>M.B.B.S., M.S., M.Ch (Urology)</qualification>
 		<contact>9824211235</contact>
@@ -6130,7 +6117,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima563-Sanjay-Patel.png</image>
 	</member>
 	<member>
-		<id>682</id>
+		<id>681</id>
 		<name>Popat Sunil S.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9825074629</contact>
@@ -6139,7 +6126,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima583-Sunil-Popat.png</image>
 	</member>
 	<member>
-		<id>683</id>
+		<id>682</id>
 		<name>Popat Swati Y.</name>
 		<qualification>M.D. (Paediatric)</qualification>
 		<contact>9426268768</contact>
@@ -6148,7 +6135,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima341-Swati-Popat.png</image>
 	</member>
 	<member>
-		<id>684</id>
+		<id>683</id>
 		<name>Popat Yagnesh O.</name>
 		<qualification>M.D. (Paediatric)</qualification>
 		<contact>9825272347</contact>
@@ -6157,7 +6144,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima340-Yogesh-Popat.png</image>
 	</member>
 	<member>
-		<id>685</id>
+		<id>684</id>
 		<name>Poptani Anand H.</name>
 		<qualification>M.D. (Medicine)</qualification>
 		<contact>9824212080</contact>
@@ -6166,7 +6153,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima726-Anand-Popatani.png</image>
 	</member>
 	<member>
-		<id>686</id>
+		<id>685</id>
 		<name>Poptani Vishal A.</name>
 		<qualification>M.D., D.N.B.(International Cardiology)</qualification>
 		<contact>9825078132</contact>
@@ -6175,7 +6162,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima678-Vishal-Popatani.png</image>
 	</member>
 	<member>
-		<id>687</id>
+		<id>686</id>
 		<name>Poriya Bhupendra D.</name>
 		<qualification>M.B.B.S., M.D., D.A. (Anaesthesia)</qualification>
 		<contact>9825078482</contact>
@@ -6184,7 +6171,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima581-Bhupendra-Poriya.png</image>
 	</member>
 	<member>
-		<id>688</id>
+		<id>687</id>
 		<name>Porwal Brinda</name>
 		<qualification>M.S. (Ophthalmology)</qualification>
 		<contact>9427217525</contact>
@@ -6193,7 +6180,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima780-Brinda-Poresl.png</image>
 	</member>
 	<member>
-		<id>689</id>
+		<id>688</id>
 		<name>Porwal Mukesh</name>
 		<qualification>M.S. (Ophthalmology), VITREO (Retinal Surgery)</qualification>
 		<contact>9426229442</contact>
@@ -6202,7 +6189,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima779-Mukesh-Porwal.png</image>
 	</member>
 	<member>
-		<id>690</id>
+		<id>689</id>
 		<name>Prajapati Samir P.</name>
 		<qualification>M. D. (Medicine)</qualification>
 		<contact>9825585255</contact>
@@ -6211,7 +6198,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima258-Samir-Prajapati.png</image>
 	</member>
 	<member>
-		<id>691</id>
+		<id>690</id>
 		<name>Prajapati Sheetal S.</name>
 		<qualification>M. D. (Ob. and Gy.)</qualification>
 		<contact>9979886747</contact>
@@ -6220,7 +6207,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima259-Shetal-Prajapati.png</image>
 	</member>
 	<member>
-		<id>692</id>
+		<id>691</id>
 		<name>Purohit Milan B.</name>
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>9898084801</contact>
@@ -6229,7 +6216,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima487-Milan-Purohit.png</image>
 	</member>
 	<member>
-		<id>693</id>
+		<id>692</id>
 		<name>Purohit Trupti M.</name>
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>9898084801</contact>
@@ -6238,7 +6225,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima486-Trupti-Purohit.png</image>
 	</member>
 	<member>
-		<id>694</id>
+		<id>693</id>
 		<name>Rabadiya Bharat L.</name>
 		<qualification>M.B.B.S., D.G.O. (Gynaecology)</qualification>
 		<contact>9979177991</contact>
@@ -6247,7 +6234,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima137-Bharat-Rabadiya-.png</image>
 	</member>
 	<member>
-		<id>695</id>
+		<id>694</id>
 		<name>Rabara C. P.</name>
 		<qualification>M.S. (Orthopaedic)</qualification>
 		<contact>9824215240</contact>
@@ -6256,7 +6243,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima574-C-P-Rabara.png</image>
 	</member>
 	<member>
-		<id>696</id>
+		<id>695</id>
 		<name>Radadia Rajesh N.</name>
 		<qualification>M.D. (Anaenthesiology)</qualification>
 		<contact>9825776627</contact>
@@ -6265,7 +6252,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima346-Rajesh-Radadia.png</image>
 	</member>
 	<member>
-		<id>697</id>
+		<id>696</id>
 		<name>Radia Nunesnitin P.</name>
 		<qualification>M.S. (Orthopaedics)</qualification>
 		<contact>9825079147</contact>
@@ -6274,7 +6261,7 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima893-Nunesnitin-Radia.png</image>
 	</member>
 	<member>
-		<id>698</id>
+		<id>697</id>
 		<name>Raichura Atul V.</name>
 		<qualification>M.D. (Radiology)</qualification>
 		<contact>9824238738</contact>
@@ -6283,13 +6270,21 @@
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima871-Atul-Raichura.png</image>
 	</member>
 	<member>
-		<id>699</id>
+		<id>698</id>
 		<name>Raichura Dipak V.</name>
 		<qualification>M.D. (Medicine and Physician)</qualification>
 		<contact>9426818666</contact>
 		<office>9426818666</office>
 		<add>Guruprasad Chowk, Nr. H. J. Doshi Hospital, Krushnanagar Main Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima246-Deepak-Raichura.png</image>
+	</member>
+	<member>
+		<id>699</id>
+		<name>Raichura Yogesh K.</name>
+		<qualification>M.S., F.M.A.S. (Laparoscopic and General Surgeon)</qualification>
+		<contact>9374103890</contact>
+		<office>02812220904</office>
+		<add>Shushrusha Surgical Hospital, Opp. Karansinhji High School, Nr. Center Point, Rajkot</add>
 	</member>
 	<member>
 		<id>700</id>
@@ -6523,7 +6518,6 @@
 		<contact>9909919029</contact>
 		<office>0</office>
 		<add>Padmakuverba Geranal Hospital, Gundavadi, Palace Road, Rajkot </add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima636-Arpita-Rathod.png</image>
 	</member>
 	<member>
 		<id>726</id>
@@ -6532,7 +6526,6 @@
 		<contact>9824232050</contact>
 		<office>02812585050</office>
 		<add>Ankapali: Paediatrics, Neonatal And Well Baby Clinics, Opp. Bus Station (Entry Gate), Dhebar Road, Rajkot 360001</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima107-Atul-Rathod-.png</image>
 	</member>
 	<member>
 		<id>727</id>
@@ -6541,7 +6534,6 @@
 		<contact>7567533211</contact>
 		<office>02812234949</office>
 		<add> "Akshar House" Dr. Bhatt Pathology Laboratory, Rajputpara Main Road, Nr. Bhutkhana Chowk, Rajkot 360001</add>
-		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima120-Dharmendra-Rathod-.png</image>
 	</member>
 	<member>
 		<id>728</id>
@@ -6909,7 +6901,7 @@
 		<qualification>M.S. (Orthopaedic)</qualification>
 		<contact>9374102062</contact>
 		<office>02812458038</office>
-		<add>Hospital For Joint Surgery, " Shastriya Sadan ", Kailashwadi Cricle, Junction Plot, Rajkot 360001</add>
+		<add>Hospital For Joint Surgery, " Swasthya Sadan ", Kailashwadi Cricle, Junction Plot, Rajkot 360001</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima909-Nirbhay-Shah.png</image>
 	</member>
 	<member>
@@ -7220,7 +7212,7 @@
 	</member>
 	<member>
 		<id>803</id>
-		<name>Sindhay Manish V.</name>
+		<name>Sindhav Manish V.</name>
 		<qualification>M.S. (General Surgery)</qualification>
 		<contact>9904045524</contact>
 		<office>00000000000</office>
@@ -7393,7 +7385,7 @@
 		<id>822</id>
 		<name>Sorathiya Bharat C.</name>
 		<qualification>M.Ch, (Oncology)</qualification>
-		<contact>02812464555</contact>
+		<contact>2464555</contact>
 		<office>02812332652</office>
 		<add>City Hospital, 5- Manhar Plot, Vidhyanagar Main Road, Rajkot</add>
 		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Pima594-Bharat-Sorathiya.png</image>
@@ -7652,7 +7644,7 @@
 	</member>
 	<member>
 		<id>851</id>
-		<name>Thakkar Samir</name>
+		<name>Thakrar Samir</name>
 		<qualification>M.D. (Paediatric and Neonatology)</qualification>
 		<contact>9825838258</contact>
 		<office>02812481566</office>
@@ -8515,5 +8507,316 @@
 	</member>
 	<member>
 		<id>947</id>
+	</member>
+	<member>
+		<id>948</id>
+		<name>Bhetariya Mayur J.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9725315513</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>949</id>
+		<name>CHAUHAN LEENA K.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9724552348</contact>
+		<office>02812471118</office>
+	</member>
+	<member>
+		<id>950</id>
+		<name>CHAUHAN MAHIPAL J.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9428790163</contact>
+		<office>02812231491</office>
+	</member>
+	<member>
+		<id>951</id>
+		<name>CHAVDA BHARAT A.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9974257433</contact>
+		<office>02812458337</office>
+	</member>
+	<member>
+		<id>952</id>
+		<name>DESAI SANJAY R.</name>
+		<qualification>M.D.(Ob. and Gy.)</qualification>
+		<contact>9974004072</contact>
+		<office>02812584884</office>
+	</member>
+	<member>
+		<id>953</id>
+		<name>GAJERA DIVYESH J.</name>
+		<qualification>M.D.</qualification>
+		<contact>9712247909</contact>
+		<office>02812369206</office>
+	</member>
+	<member>
+		<id>954</id>
+		<name>GAJIPARA SANDIP</name>
+		<qualification>D.G.O.</qualification>
+		<contact>8228248250</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>955</id>
+		<name>GORASIA JIGNESH H.</name>
+		<qualification>M.D. (BIOCHEMISTRY)</qualification>
+		<contact>9427237203</contact>
+		<office>9033352628</office>
+	</member>
+	<member>
+		<id>956</id>
+		<name>JAIN GOPEE V.</name>
+		<qualification>M.D.(MICROBIOLOGY</qualification>
+		<contact>9825771975</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>957</id>
+		<name>JAIN VIKASH R.</name>
+		<qualification>M.D.,D.M.,(Neuro-Radiology)</qualification>
+		<contact>9033004666</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>958</id>
+		<name>JAVIA ABHAY</name>
+		<qualification>M.D.,DNB,(RES. MED.)</qualification>
+		<contact>9033369070</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>959</id>
+		<name>JAVIA DEESHA</name>
+		<qualification>M.D. (ANEA.)</qualification>
+		<contact>9879823487</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>960</id>
+		<name>KAMARIYA CHANDRAKANT P.</name>
+		<qualification>M.D. (BIOCHEMISTRY)</qualification>
+		<contact>9974704287</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>961</id>
+		<name>KANABAR BHAVESH R.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9427730902</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>962</id>
+		<name>KANERIA DIVYESH M.</name>
+		<qualification>M.D. (ANATOMY)</qualification>
+		<contact>9909988762</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>963</id>
+		<name>KARELIYA PRAKASH</name>
+		<qualification>M.D. (ANEA.)</qualification>
+		<contact>9099011336</contact>
+		<office>02812451458</office>
+	</member>
+	<member>
+		<id>964</id>
+		<name>KHANDVI YOGESH P.</name>
+		<qualification>D.O.M.S.</qualification>
+		<contact>9925084955</contact>
+		<office>02897222299</office>
+	</member>
+	<member>
+		<id>965</id>
+		<name>KOTAK KAVITA R.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9429978208</contact>
+		<office>02812581761</office>
+	</member>
+	<member>
+		<id>966</id>
+		<name>MACHHAR PANKAJ B.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9228748605</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>967</id>
+		<name>MAKWANA NILESH J.</name>
+		<qualification>M.D. (RADIO)</qualification>
+		<contact>9099042845</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>968</id>
+		<name>MUNDRA MAHAVEER</name>
+		<qualification>M.S. (GEN.)</qualification>
+		<contact>9925043049</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>969</id>
+		<name>NAMERA HARSHIDA K.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>8141207778</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>970</id>
+		<name>NANDASANA ANIL D.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9909982997</contact>
+		<office>02820285638</office>
+	</member>
+	<member>
+		<id>971</id>
+		<name>PABANI NILAY J.</name>
+		<qualification>M.D.</qualification>
+		<contact>9879136475</contact>
+		<office>02812481100</office>
+	</member>
+	<member>
+		<id>972</id>
+		<name>PANDYA PRUTHA T.</name>
+		<qualification>M.B.B.S</qualification>
+		<contact>9925045010</contact>
+		<office>02812571013</office>
+	</member>
+	<member>
+		<id>973</id>
+		<name>PANDYA TEJAS S.</name>
+		<qualification>M.D.</qualification>
+		<contact>9879885577</contact>
+		<office>02812571013</office>
+	</member>
+	<member>
+		<id>974</id>
+		<name>PANSORA SAMIP M.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9924112005</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>975</id>
+		<name>PARMAR HIMANSHU N.</name>
+		<qualification>M.S. (ORTHO.)</qualification>
+		<contact>9638432385</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>976</id>
+		<name>PATEL BHAVIN N.</name>
+		<qualification>M.D.</qualification>
+		<contact>9925595856</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>977</id>
+		<name>PATEL NENCY N.</name>
+		<qualification>D.C.P.</qualification>
+		<contact>9427410034</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>978</id>
+		<name>PATEL NIRAV V.</name>
+		<qualification>D.C.H.</qualification>
+		<contact>9712842990</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>979</id>
+		<name>PATTANI MANISH H.</name>
+		<qualification>M.D. (MICRO)</qualification>
+		<contact>9426224702</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>980</id>
+		<name>PIPALIYA KRUNAL N.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9428233233</contact>
+		<office>02812332332</office>
+	</member>
+	<member>
+		<id>981</id>
+		<name>RATHOD AMIT R.</name>
+		<qualification>M.D. (PATH.)</qualification>
+		<contact>9712128310</contact>
+		<office>02812460603</office>
+	</member>
+	<member>
+		<id>982</id>
+		<name>RATHOD DIPAL A.</name>
+		<qualification>M.D. (SKIN, V D)</qualification>
+		<contact>9687362959</contact>
+		<office>02812460603</office>
+	</member>
+	<member>
+		<id>983</id>
+		<name>SANGHANI KAMLESH N.</name>
+		<qualification>M.D.</qualification>
+		<contact>9624718510</contact>
+		<office>8511846484</office>
+	</member>
+	<member>
+		<id>984</id>
+		<name>SARADAVA VIMAL B.</name>
+		<qualification>M.D.D.M., (GASTRO)</qualification>
+		<contact>8238344144</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>985</id>
+		<name>TILVA RUCHI SONAM</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>8140999972</contact>
+		<office>02812450685</office>
+	</member>
+	<member>
+		<id>986</id>
+		<name>VACHHANI UDAY N.</name>
+		<qualification>M.D. (BIOCHEMISTRY)</qualification>
+		<contact>9998098982</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>987</id>
+		<name>VAGHASIA SURESH P.</name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9638874451</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>988</id>
+		<name>VEGAD KETAN G.</name>
+		<qualification>M.B.B.S.M.R.C.P.</qualification>
+		<contact>9638123275</contact>
+		<office>02812369666</office>
+	</member>
+	<member>
+		<id>989</id>
+		<name>VIDJA MAHESH D.</name>
+		<qualification>M.D. (PATH.)</qualification>
+		<contact>9898924789</contact>
+		<office>02812455125</office>
+	</member>
+	<member>
+		<id>990</id>
+		<name>VORA RAJNIK </name>
+		<qualification>M.B.B.S.</qualification>
+		<contact>9016462111</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>991</id>
+		<name>VYAS KRUSHNAKUMAR C.</name>
+		<qualification>M.D. (PHYSICIAN)</qualification>
+		<contact>9879433414</contact>
+		<office>00000000000</office>
+	</member>
+	<member>
+		<id>992</id>
 	</member>
 </imadirectory>
