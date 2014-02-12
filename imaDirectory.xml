@@ -6522,13 +6522,13 @@
 		<qualification>M.D., D.C.P. (Pathology)</qualification>
 		<contact>9909919029</contact>
 		<office>0</office>
-		<add>Padmakuverba Geranal Hospital, Gundavadi, Palace Road, Rajkot </add>
+		<add>Padmakuverba Geranal Hospital, Gundavadi, Palace Road, Rajkot</add>
 		<image>https://raw2.github.com/prconsultancy/IMA/master/dr.pic/Pima636-Arpita-Rathod.png</image>
 	</member>
 	<member>
 		<id>726</id>
 		<name>Rathod Atul G.</name>
-		<qualification>M.B.B.S., D.C.H. (Paediatric And Neonatology) </qualification>
+		<qualification>M.B.B.S., D.C.H. (Paediatric And Neonatology)</qualification>
 		<contact>9824232050</contact>
 		<office>02812585050</office>
 		<add>Ankapali: Paediatrics, Neonatal And Well Baby Clinics, Opp. Bus Station (Entry Gate), Dhebar Road, Rajkot 360001</add>
@@ -6540,7 +6540,7 @@
 		<qualification>M.D. (Pathology)</qualification>
 		<contact>7567533211</contact>
 		<office>02812234949</office>
-		<add> "Akshar House" Dr. Bhatt Pathology Laboratory, Rajputpara Main Road, Nr. Bhutkhana Chowk, Rajkot 360001</add>
+		<add>"Akshar House" Dr. Bhatt Pathology Laboratory, Rajputpara Main Road, Nr. Bhutkhana Chowk, Rajkot 360001</add>
 		<image>https://raw2.github.com/prconsultancy/IMA/master/dr.pic/Pima120-Dharmendra-Rathod-.png</image>
 	</member>
 	<member>
@@ -6564,7 +6564,7 @@
 	<member>
 		<id>730</id>
 		<name>Rathod Pritesh R.</name>
-		<qualification>M.D., D.(Paediatric) </qualification>
+		<qualification>M.D., D.(Paediatric)</qualification>
 		<contact>9825114020</contact>
 		<office>00000000000</office>
 		<add>Vedant Hospital , Moti Tanki Chowk, Nr. Jigar Coldrink, Rajkot</add>
@@ -8515,316 +8515,310 @@
 	</member>
 	<member>
 		<id>947</id>
-	</member>
-	<member>
-		<id>948</id>
 		<name>Bhetariya Mayur J.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9725315513</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>949</id>
+		<id>948</id>
 		<name>CHAUHAN LEENA K.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9724552348</contact>
 		<office>02812471118</office>
 	</member>
 	<member>
-		<id>950</id>
+		<id>949</id>
 		<name>CHAUHAN MAHIPAL J.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428790163</contact>
 		<office>02812231491</office>
 	</member>
 	<member>
-		<id>951</id>
+		<id>950</id>
 		<name>CHAVDA BHARAT A.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9974257433</contact>
 		<office>02812458337</office>
 	</member>
 	<member>
-		<id>952</id>
+		<id>951</id>
 		<name>DESAI SANJAY R.</name>
 		<qualification>M.D.(Ob. and Gy.)</qualification>
 		<contact>9974004072</contact>
 		<office>02812584884</office>
 	</member>
 	<member>
-		<id>953</id>
+		<id>952</id>
 		<name>GAJERA DIVYESH J.</name>
 		<qualification>M.D.</qualification>
 		<contact>9712247909</contact>
 		<office>02812369206</office>
 	</member>
 	<member>
-		<id>954</id>
+		<id>953</id>
 		<name>GAJIPARA SANDIP</name>
 		<qualification>D.G.O.</qualification>
 		<contact>8228248250</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>955</id>
+		<id>954</id>
 		<name>GORASIA JIGNESH H.</name>
 		<qualification>M.D. (BIOCHEMISTRY)</qualification>
 		<contact>9427237203</contact>
 		<office>9033352628</office>
 	</member>
 	<member>
-		<id>956</id>
+		<id>955</id>
 		<name>JAIN GOPEE V.</name>
 		<qualification>M.D.(MICROBIOLOGY</qualification>
 		<contact>9825771975</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>957</id>
+		<id>956</id>
 		<name>JAIN VIKASH R.</name>
 		<qualification>M.D.,D.M.,(Neuro-Radiology)</qualification>
 		<contact>9033004666</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>958</id>
+		<id>957</id>
 		<name>JAVIA ABHAY</name>
 		<qualification>M.D.,DNB,(RES. MED.)</qualification>
 		<contact>9033369070</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>959</id>
+		<id>958</id>
 		<name>JAVIA DEESHA</name>
 		<qualification>M.D. (ANEA.)</qualification>
 		<contact>9879823487</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>960</id>
+		<id>959</id>
 		<name>KAMARIYA CHANDRAKANT P.</name>
 		<qualification>M.D. (BIOCHEMISTRY)</qualification>
 		<contact>9974704287</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>961</id>
+		<id>960</id>
 		<name>KANABAR BHAVESH R.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9427730902</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>962</id>
+		<id>961</id>
 		<name>KANERIA DIVYESH M.</name>
 		<qualification>M.D. (ANATOMY)</qualification>
 		<contact>9909988762</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>963</id>
+		<id>962</id>
 		<name>KARELIYA PRAKASH</name>
 		<qualification>M.D. (ANEA.)</qualification>
 		<contact>9099011336</contact>
 		<office>02812451458</office>
 	</member>
 	<member>
-		<id>964</id>
+		<id>963</id>
 		<name>KHANDVI YOGESH P.</name>
 		<qualification>D.O.M.S.</qualification>
 		<contact>9925084955</contact>
 		<office>02897222299</office>
 	</member>
 	<member>
-		<id>965</id>
+		<id>964</id>
 		<name>KOTAK KAVITA R.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9429978208</contact>
 		<office>02812581761</office>
 	</member>
 	<member>
-		<id>966</id>
+		<id>965</id>
 		<name>MACHHAR PANKAJ B.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9228748605</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>967</id>
+		<id>966</id>
 		<name>MAKWANA NILESH J.</name>
 		<qualification>M.D. (RADIO)</qualification>
 		<contact>9099042845</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>968</id>
+		<id>967</id>
 		<name>MUNDRA MAHAVEER</name>
 		<qualification>M.S. (GEN.)</qualification>
 		<contact>9925043049</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>969</id>
+		<id>968</id>
 		<name>NAMERA HARSHIDA K.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>8141207778</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>970</id>
+		<id>969</id>
 		<name>NANDASANA ANIL D.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9909982997</contact>
 		<office>02820285638</office>
 	</member>
 	<member>
-		<id>971</id>
+		<id>970</id>
 		<name>PABANI NILAY J.</name>
 		<qualification>M.D.</qualification>
 		<contact>9879136475</contact>
 		<office>02812481100</office>
 	</member>
 	<member>
-		<id>972</id>
+		<id>971</id>
 		<name>PANDYA PRUTHA T.</name>
 		<qualification>M.B.B.S</qualification>
 		<contact>9925045010</contact>
 		<office>02812571013</office>
 	</member>
 	<member>
-		<id>973</id>
+		<id>972</id>
 		<name>PANDYA TEJAS S.</name>
 		<qualification>M.D.</qualification>
 		<contact>9879885577</contact>
 		<office>02812571013</office>
 	</member>
 	<member>
-		<id>974</id>
+		<id>973</id>
 		<name>PANSORA SAMIP M.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9924112005</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>975</id>
+		<id>974</id>
 		<name>PARMAR HIMANSHU N.</name>
 		<qualification>M.S. (ORTHO.)</qualification>
 		<contact>9638432385</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>976</id>
+		<id>975</id>
 		<name>PATEL BHAVIN N.</name>
 		<qualification>M.D.</qualification>
 		<contact>9925595856</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>977</id>
+		<id>976</id>
 		<name>PATEL NENCY N.</name>
 		<qualification>D.C.P.</qualification>
 		<contact>9427410034</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>978</id>
+		<id>977</id>
 		<name>PATEL NIRAV V.</name>
 		<qualification>D.C.H.</qualification>
 		<contact>9712842990</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>979</id>
+		<id>978</id>
 		<name>PATTANI MANISH H.</name>
 		<qualification>M.D. (MICRO)</qualification>
 		<contact>9426224702</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>980</id>
+		<id>979</id>
 		<name>PIPALIYA KRUNAL N.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9428233233</contact>
 		<office>02812332332</office>
 	</member>
 	<member>
-		<id>981</id>
+		<id>980</id>
 		<name>RATHOD AMIT R.</name>
 		<qualification>M.D. (PATH.)</qualification>
 		<contact>9712128310</contact>
 		<office>02812460603</office>
 	</member>
 	<member>
-		<id>982</id>
+		<id>981</id>
 		<name>RATHOD DIPAL A.</name>
 		<qualification>M.D. (SKIN, V D)</qualification>
 		<contact>9687362959</contact>
 		<office>02812460603</office>
 	</member>
 	<member>
-		<id>983</id>
+		<id>982</id>
 		<name>SANGHANI KAMLESH N.</name>
 		<qualification>M.D.</qualification>
 		<contact>9624718510</contact>
 		<office>8511846484</office>
 	</member>
 	<member>
-		<id>984</id>
+		<id>983</id>
 		<name>SARADAVA VIMAL B.</name>
 		<qualification>M.D.D.M., (GASTRO)</qualification>
 		<contact>8238344144</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>985</id>
+		<id>984</id>
 		<name>TILVA RUCHI SONAM</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>8140999972</contact>
 		<office>02812450685</office>
 	</member>
 	<member>
-		<id>986</id>
+		<id>985</id>
 		<name>VACHHANI UDAY N.</name>
 		<qualification>M.D. (BIOCHEMISTRY)</qualification>
 		<contact>9998098982</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>987</id>
+		<id>986</id>
 		<name>VAGHASIA SURESH P.</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9638874451</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>988</id>
+		<id>987</id>
 		<name>VEGAD KETAN G.</name>
 		<qualification>M.B.B.S.M.R.C.P.</qualification>
 		<contact>9638123275</contact>
 		<office>02812369666</office>
 	</member>
 	<member>
-		<id>989</id>
+		<id>988</id>
 		<name>VIDJA MAHESH D.</name>
 		<qualification>M.D. (PATH.)</qualification>
 		<contact>9898924789</contact>
 		<office>02812455125</office>
 	</member>
 	<member>
-		<id>990</id>
-		<name>VORA RAJNIK </name>
+		<id>989</id>
+		<name>VORA RAJNIK</name>
 		<qualification>M.B.B.S.</qualification>
 		<contact>9016462111</contact>
 		<office>00000000000</office>
 	</member>
 	<member>
-		<id>991</id>
+		<id>990</id>
 		<name>VYAS KRUSHNAKUMAR C.</name>
 		<qualification>M.D. (PHYSICIAN)</qualification>
 		<contact>9879433414</contact>
 		<office>00000000000</office>
-	</member>
-	<member>
-		<id>992</id>
 	</member>
 </imadirectory>
